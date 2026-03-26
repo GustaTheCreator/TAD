@@ -1,0 +1,901 @@
+species_name,season,region_pt,observation_count
+(unknown),summer,norte,1
+Abortiporus biennis,autumn,sul,1
+Abortiporus biennis,summer,sul,1
+Acari,autumn,sul,1
+Acari,winter,norte,1
+Acari,winter,sul,1
+Agaricaceae,autumn,norte,310
+Agaricaceae,autumn,sul,216
+Agaricaceae,spring,norte,18
+Agaricaceae,spring,sul,20
+Agaricaceae,summer,norte,31
+Agaricaceae,summer,sul,13
+Agaricaceae,winter,norte,22
+Agaricaceae,winter,sul,79
+Agaricales,autumn,norte,4193
+Agaricales,autumn,sul,2970
+Agaricales,spring,norte,542
+Agaricales,spring,sul,572
+Agaricales,summer,norte,436
+Agaricales,summer,sul,120
+Agaricales,winter,norte,1232
+Agaricales,winter,sul,2769
+Agaricineae,autumn,norte,1
+Agaricineae,winter,norte,1
+Agaricineae,winter,sul,1
+Agaricomycetes,autumn,norte,898
+Agaricomycetes,autumn,sul,605
+Agaricomycetes,spring,norte,230
+Agaricomycetes,spring,sul,197
+Agaricomycetes,summer,norte,171
+Agaricomycetes,summer,sul,80
+Agaricomycetes,winter,norte,356
+Agaricomycetes,winter,sul,668
+Agaricus,autumn,norte,988
+Agaricus,autumn,sul,812
+Agaricus,spring,norte,82
+Agaricus,spring,sul,116
+Agaricus,summer,norte,74
+Agaricus,summer,sul,29
+Agaricus,winter,norte,105
+Agaricus,winter,sul,343
+Agaricus arvensis,autumn,norte,79
+Agaricus arvensis,autumn,sul,44
+Agaricus arvensis,spring,norte,20
+Agaricus arvensis,spring,sul,6
+Agaricus arvensis,summer,norte,19
+Agaricus arvensis,winter,norte,1
+Agaricus arvensis,winter,sul,15
+Agaricus augustus,autumn,sul,1
+Agaricus bisporus,autumn,norte,22
+Agaricus bisporus,autumn,sul,23
+Agaricus bisporus,spring,norte,9
+Agaricus bisporus,spring,sul,4
+Agaricus bisporus,summer,sul,4
+Agaricus bisporus,winter,norte,6
+Agaricus bisporus,winter,sul,8
+Agaricus bitorquis,autumn,norte,73
+Agaricus bitorquis,autumn,sul,52
+Agaricus bitorquis,spring,norte,27
+Agaricus bitorquis,spring,sul,21
+Agaricus bitorquis,summer,norte,14
+Agaricus bitorquis,summer,sul,3
+Agaricus bitorquis,winter,norte,6
+Agaricus bitorquis,winter,sul,15
+Agaricus bohusii,autumn,sul,2
+Agaricus brunneolus,autumn,norte,4
+Agaricus brunneolus,autumn,sul,2
+Agaricus brunneolus,winter,sul,2
+Agaricus campestris,autumn,norte,347
+Agaricus campestris,autumn,sul,263
+Agaricus campestris,spring,norte,44
+Agaricus campestris,spring,sul,35
+Agaricus campestris,summer,norte,26
+Agaricus campestris,summer,sul,7
+Agaricus campestris,winter,norte,33
+Agaricus campestris,winter,sul,83
+Agaricus comtulus,autumn,norte,2
+Agaricus crocodilinus,autumn,norte,21
+Agaricus crocodilinus,autumn,sul,4
+Agaricus crocodilinus,spring,norte,8
+Agaricus crocodilinus,spring,sul,3
+Agaricus crocodilinus,summer,norte,14
+Agaricus crocodilinus,summer,sul,1
+Agaricus crocodilinus,winter,sul,3
+Agaricus cupreobrunneus,winter,sul,1
+Agaricus dulcidulus,winter,sul,1
+Agaricus impudicus,autumn,norte,11
+Agaricus impudicus,autumn,sul,8
+Agaricus impudicus,summer,norte,2
+Agaricus impudicus,summer,sul,1
+Agaricus impudicus,winter,norte,1
+Agaricus impudicus,winter,sul,1
+Agaricus incultorum,autumn,norte,7
+Agaricus incultorum,autumn,sul,14
+Agaricus incultorum,spring,norte,1
+Agaricus incultorum,spring,sul,1
+Agaricus incultorum,winter,norte,1
+Agaricus incultorum,winter,sul,11
+Agaricus langei,autumn,norte,10
+Agaricus langei,autumn,sul,1
+Agaricus langei,winter,sul,2
+Agaricus litoralis,autumn,norte,6
+Agaricus litoralis,autumn,sul,1
+Agaricus litoralis,spring,norte,10
+Agaricus litoralis,spring,sul,3
+Agaricus litoralis,summer,norte,5
+Agaricus litoralis,summer,sul,1
+Agaricus litoralis,winter,sul,2
+Agaricus matrum,autumn,norte,1
+Agaricus moelleri,autumn,norte,68
+Agaricus moelleri,autumn,sul,33
+Agaricus moelleri,summer,norte,4
+Agaricus moelleri,winter,norte,10
+Agaricus moelleri,winter,sul,4
+Agaricus moelleroides,autumn,norte,3
+Agaricus placomyces,autumn,norte,7
+Agaricus placomyces,autumn,sul,3
+Agaricus placomyces,spring,norte,1
+Agaricus placomyces,summer,norte,1
+Agaricus pseudopratensis,autumn,norte,2
+Agaricus pseudopratensis,autumn,sul,1
+Agaricus pseudopratensis,spring,norte,2
+Agaricus pseudopratensis,spring,sul,1
+Agaricus pseudopratensis,winter,norte,1
+Agaricus pseudopratensis,winter,sul,1
+Agaricus subrufescens,autumn,sul,2
+Agaricus sylvaticus,autumn,norte,80
+Agaricus sylvaticus,autumn,sul,63
+Agaricus sylvaticus,spring,norte,2
+Agaricus sylvaticus,summer,norte,7
+Agaricus sylvaticus,winter,norte,20
+Agaricus sylvaticus,winter,sul,12
+Agaricus sylvicola,autumn,norte,48
+Agaricus sylvicola,autumn,sul,26
+Agaricus sylvicola,spring,norte,5
+Agaricus sylvicola,spring,sul,7
+Agaricus sylvicola,summer,norte,11
+Agaricus sylvicola,winter,norte,4
+Agaricus sylvicola,winter,sul,9
+Agaricus xanthodermus,autumn,norte,104
+Agaricus xanthodermus,autumn,sul,95
+Agaricus xanthodermus,spring,norte,10
+Agaricus xanthodermus,spring,sul,6
+Agaricus xanthodermus,summer,norte,10
+Agaricus xanthodermus,winter,norte,16
+Agaricus xanthodermus,winter,sul,37
+Aleocharinae,autumn,sul,1
+Aleocharinae,winter,sul,1
+Aleuria aurantia,winter,norte,1
+Amanita,autumn,norte,800
+Amanita,autumn,sul,420
+Amanita,spring,norte,78
+Amanita,spring,sul,57
+Amanita,summer,norte,192
+Amanita,summer,sul,17
+Amanita,winter,norte,45
+Amanita,winter,sul,139
+Amanita caesarea,autumn,norte,121
+Amanita caesarea,autumn,sul,118
+Amanita caesarea,spring,norte,4
+Amanita caesarea,spring,sul,2
+Amanita caesarea,summer,norte,39
+Amanita caesarea,summer,sul,3
+Amanita caesarea,winter,sul,11
+Amanita citrina,winter,sul,1
+Amanita curtipes,winter,sul,1
+Amanita gioiosa,winter,sul,1
+Amanita muscaria,autumn,norte,4
+Amanita muscaria,autumn,sul,1
+Amanita muscaria,summer,norte,1
+Amanita muscaria,winter,norte,1
+Amanita muscaria,winter,sul,1
+Amanita ponderosa,spring,sul,2
+Amanita rubescens,spring,norte,1
+Amanita verna,autumn,norte,1
+Amanita verna,spring,norte,6
+Amanita verna,spring,sul,1
+Amanita verna,summer,norte,4
+Amanita verna,winter,sul,1
+Amanitaceae,autumn,norte,15
+Amanitaceae,autumn,sul,6
+Amanitaceae,spring,norte,4
+Amanitaceae,spring,sul,2
+Amanitaceae,summer,norte,4
+Amanitaceae,summer,sul,1
+Amanitaceae,winter,norte,1
+Amanitaceae,winter,sul,11
+Anacamptis papilionacea,spring,sul,1
+Anoplotrupes,summer,norte,1
+Aphididae,autumn,norte,1
+Arion,autumn,sul,1
+Arion,winter,sul,1
+Arion ater,autumn,sul,1
+Arion ater,spring,norte,1
+Arion fuligineus,winter,sul,1
+Arion vulgaris,winter,sul,1
+Armillaria,autumn,norte,527
+Armillaria,autumn,sul,164
+Armillaria,spring,norte,3
+Armillaria,spring,sul,1
+Armillaria,summer,norte,6
+Armillaria,summer,sul,1
+Armillaria,winter,norte,141
+Armillaria,winter,sul,116
+Armillaria mellea,autumn,norte,703
+Armillaria mellea,autumn,sul,141
+Armillaria mellea,spring,norte,5
+Armillaria mellea,summer,norte,16
+Armillaria mellea,summer,sul,6
+Armillaria mellea,winter,norte,157
+Armillaria mellea,winter,sul,109
+Armillaria novae-zelandiae,autumn,norte,2
+Armillaria ostoyae,autumn,norte,151
+Armillaria ostoyae,autumn,sul,18
+Armillaria ostoyae,spring,sul,1
+Armillaria ostoyae,summer,norte,1
+Armillaria ostoyae,summer,sul,1
+Armillaria ostoyae,winter,norte,24
+Armillaria ostoyae,winter,sul,6
+Arrhenia,autumn,sul,1
+Asterophora parasitica,winter,sul,1
+Astraeus hygrometricus,winter,sul,1
+Atheta,autumn,sul,1
+Auricularia mesenterica,autumn,norte,1
+Auricularia mesenterica,winter,sul,1
+Auricularia nigricans,winter,sul,1
+Basidiomycota,autumn,norte,1125
+Basidiomycota,autumn,sul,716
+Basidiomycota,spring,norte,218
+Basidiomycota,spring,sul,185
+Basidiomycota,summer,norte,228
+Basidiomycota,summer,sul,80
+Basidiomycota,winter,norte,311
+Basidiomycota,winter,sul,525
+Battarrea phalloides,autumn,norte,1
+Battarrea phalloides,autumn,sul,1
+Berkcurtia persicina,autumn,norte,1
+Bipalium kewense,winter,sul,1
+Bolbitius titubans,autumn,norte,150
+Bolbitius titubans,autumn,sul,196
+Bolbitius titubans,spring,norte,42
+Bolbitius titubans,spring,sul,19
+Bolbitius titubans,summer,norte,39
+Bolbitius titubans,summer,sul,6
+Bolbitius titubans,winter,norte,31
+Bolbitius titubans,winter,sul,88
+Boletaceae,autumn,norte,1
+Boletaceae,autumn,sul,2
+Boletaceae,winter,sul,2
+Boletales,autumn,norte,1
+Boletales,autumn,sul,6
+Boletales,spring,sul,1
+Boletus,summer,norte,1
+Boletus edulis,autumn,sul,1
+Bombus terrestris lusitanicus,winter,sul,1
+Brevipes,autumn,norte,1
+Calocera viscosa,winter,sul,1
+Calocybe gambosa,autumn,norte,2
+Calocybe gambosa,spring,norte,68
+Calocybe gambosa,spring,sul,11
+Calocybe gambosa,summer,norte,20
+Calocybe gambosa,summer,sul,5
+Calocybe gambosa,winter,norte,1
+Calocybe gambosa,winter,sul,2
+Calonarius,winter,sul,1
+Calvatia cyathiformis,spring,sul,1
+Calyptella capula,winter,sul,1
+Candolleomyces candolleanus,autumn,sul,1
+Cantharellus,spring,sul,1
+Cartodere nodifer,winter,sul,1
+Ceratophysella,autumn,sul,1
+Cerioporus squamosus,autumn,norte,35
+Cerioporus squamosus,autumn,sul,9
+Cerioporus squamosus,spring,norte,55
+Cerioporus squamosus,spring,sul,8
+Cerioporus squamosus,summer,norte,38
+Cerioporus squamosus,summer,sul,4
+Cerioporus squamosus,winter,norte,7
+Cerioporus squamosus,winter,sul,2
+Cetraria crespoae,winter,sul,1
+Chlorophyllum brunneum,autumn,norte,1
+Chlorophyllum brunneum,spring,sul,1
+Chlorophyllum brunneum,winter,sul,1
+Chroogomphus,autumn,norte,1
+Cladosporium,summer,sul,1
+Clathrus ruber,autumn,sul,1
+Clathrus ruber,summer,norte,1
+Clathrus ruber,winter,sul,1
+Clavulina,autumn,sul,1
+Clitocybaceae,autumn,sul,1
+Clitocybaceae,winter,norte,1
+Clitocybe,autumn,norte,2
+Clitocybe,winter,sul,5
+Clitocybe fragrans,winter,sul,1
+Clitocybe nebularis,autumn,sul,2
+Clitopilus,autumn,norte,1
+Clitopilus prunulus,autumn,norte,126
+Clitopilus prunulus,autumn,sul,16
+Clitopilus prunulus,summer,norte,25
+Clitopilus prunulus,summer,sul,2
+Clitopilus prunulus,winter,norte,2
+Clitopilus prunulus,winter,sul,5
+Collembola,winter,sul,1
+Collybia,autumn,sul,1
+Collybia nuda,spring,norte,1
+Collybia nuda,winter,norte,1
+Collybia nuda,winter,sul,2
+Collybia personata,autumn,sul,1
+Conocybe,autumn,norte,1
+Coprinellus,summer,norte,1
+Coprinellus,winter,sul,2
+Coprinellus disseminatus,spring,sul,1
+Coprinellus domesticus,winter,sul,1
+Coprinellus micaceus,autumn,sul,1
+Coprinellus xanthothrix,winter,sul,1
+Coprinopsis atramentaria,spring,norte,1
+Coprinopsis lagopus,autumn,norte,120
+Coprinopsis lagopus,autumn,sul,63
+Coprinopsis lagopus,spring,norte,15
+Coprinopsis lagopus,spring,sul,12
+Coprinopsis lagopus,summer,norte,14
+Coprinopsis lagopus,summer,sul,6
+Coprinopsis lagopus,winter,norte,7
+Coprinopsis lagopus,winter,sul,37
+Coprinopsis melanthina,autumn,sul,1
+Coprinopsis picacea,autumn,sul,1
+Coprinopsis picacea,winter,sul,1
+Coprinus comatus,autumn,sul,3
+Coprinus comatus,winter,sul,2
+Cortinariaceae,winter,sul,1
+Cortinarius clelandii,winter,sul,2
+Cortinarius trivialis,autumn,sul,1
+Cortinarius trivialis,winter,sul,2
+Crepidotus,autumn,sul,1
+Crepidotus,winter,sul,1
+Cryptomarasmius corbariensis,autumn,sul,1
+Cryptomarasmius corbariensis,winter,sul,1
+Cupressus,winter,sul,1
+Curculionidae,winter,sul,1
+Cyathus striatus,autumn,sul,1
+Cychramus luteus,autumn,norte,1
+Cyclocybe,winter,sul,1
+Cyclocybe cylindracea,autumn,sul,6
+Cyclocybe cylindracea,spring,norte,1
+Cyclocybe cylindracea,spring,sul,1
+Cyclocybe cylindracea,winter,sul,2
+Cynomorium coccineum,autumn,sul,1
+Cynomorium coccineum,spring,sul,264
+Cynomorium coccineum,summer,sul,7
+Cynomorium coccineum,winter,sul,62
+Cystolepiota,winter,sul,1
+Deroceras,winter,sul,1
+Desarmillaria,winter,sul,1
+Descolea maculata,summer,norte,1
+Didymium spongiosum,winter,sul,1
+Diploicia canescens,winter,sul,1
+Domestici,spring,sul,1
+Entoloma,spring,sul,3
+Entoloma,winter,sul,2
+Entoloma cistophilum,winter,sul,1
+Entomophthora muscae,autumn,norte,1
+Erynia,summer,sul,1
+Flammulaster erinaceellus,autumn,sul,1
+Flammulina velutipes,autumn,norte,1
+Flammulina velutipes,spring,norte,2
+Flammulina velutipes,winter,norte,3
+Flammulina velutipes,winter,sul,1
+Fomes,spring,norte,1
+Fuligo septica,autumn,sul,1
+Fulminei,winter,norte,1
+Fungi,autumn,norte,2109
+Fungi,autumn,sul,1142
+Fungi,spring,norte,581
+Fungi,spring,sul,570
+Fungi,summer,norte,390
+Fungi,summer,sul,183
+Fungi,winter,norte,1080
+Fungi,winter,sul,1222
+Fuscoporia torulosa,winter,sul,1
+Fusicolla,winter,norte,1
+Galactinia saniosa,winter,sul,1
+Galerina,autumn,sul,2
+Ganoderma,autumn,sul,1
+Geoglossum,winter,sul,1
+Gibbaranea bituberculata,winter,sul,1
+Gliophorus,autumn,norte,1
+Gliophorus psittacinus,autumn,norte,33
+Gliophorus psittacinus,autumn,sul,11
+Gliophorus psittacinus,spring,norte,2
+Gliophorus psittacinus,spring,sul,1
+Gliophorus psittacinus,summer,norte,4
+Gliophorus psittacinus,winter,norte,16
+Gliophorus psittacinus,winter,sul,16
+Glyphis cicatricosa,autumn,sul,1
+Graphis,summer,sul,1
+Gymnopilus,winter,sul,2
+Gymnopilus junonius,autumn,norte,1
+Gymnopilus junonius,autumn,sul,1
+Gymnopilus junonius,winter,norte,1
+Gymnopilus junonius,winter,sul,1
+Gymnopilus suberis,winter,sul,1
+Gymnopus,spring,sul,1
+Gymnopus brassicolens,spring,sul,1
+Gymnopus dryophilus,winter,sul,1
+Gyroporus castaneus,autumn,norte,1
+Gyroporus castaneus,winter,sul,1
+Hebeloma cistophilum,winter,sul,1
+Hebeloma crustuliniforme,winter,sul,1
+Hebeloma sarcophyllum,winter,sul,1
+Heleomyzidae,autumn,norte,1
+Helvella elastica,winter,sul,1
+Helvella fallax,spring,sul,1
+Helvella lacunosa,winter,sul,1
+Hemileccinum impolitum,winter,sul,1
+Hericium erinaceus,autumn,norte,31
+Hericium erinaceus,autumn,sul,8
+Hericium erinaceus,spring,norte,3
+Hericium erinaceus,summer,norte,1
+Hericium erinaceus,winter,norte,10
+Hericium erinaceus,winter,sul,4
+Hexagonia nitida,winter,sul,2
+Homophron spadiceum,winter,sul,1
+Hortiboletus rubellus,autumn,sul,1
+Humaria hemisphaerica,autumn,sul,1
+Hydnum,autumn,norte,53
+Hydnum,autumn,sul,7
+Hydnum,spring,norte,3
+Hydnum,spring,sul,3
+Hydnum,summer,norte,8
+Hydnum,winter,norte,41
+Hydnum,winter,sul,29
+Hygrocybe,autumn,sul,1
+Hygrocybe,winter,sul,2
+Hygrocybe acutoconica,autumn,sul,1
+Hygrocybe conica,spring,sul,1
+Hygrophoropsis aurantiaca,autumn,norte,1
+Hygrophorus,winter,sul,1
+Hygrophorus chrysodon,winter,sul,1
+Hygrophorus cossus,winter,sul,1
+Hygrophorus eburneus,winter,sul,1
+Hygrophorus glutinifer,winter,sul,1
+Hypholoma,autumn,norte,1
+Hypholoma,autumn,sul,4
+Hypholoma fasciculare,autumn,norte,1
+Hypholoma fasciculare,spring,norte,1
+Hypholoma fasciculare,winter,norte,2
+Hypholoma fasciculare,winter,sul,1
+Hypocreaceae,autumn,norte,1
+Hypogastruridae,winter,norte,1
+Hypomyces,autumn,sul,2
+Hypomyces,winter,sul,1
+Hypomyces ochraceus,autumn,sul,1
+Hypomyces tubariicola,winter,sul,1
+Hypsizygus tessulatus,autumn,norte,1
+Hypsizygus ulmarius,autumn,norte,2
+Hypsizygus ulmarius,autumn,sul,5
+Hypsizygus ulmarius,summer,sul,1
+Hypsizygus ulmarius,winter,sul,2
+Infundibulicybe,autumn,norte,1
+Infundibulicybe geotropa,autumn,norte,1
+Infundibulicybe squamulosa,autumn,sul,1
+Infundibulicybe squamulosa,winter,sul,1
+Inocybaceae,autumn,norte,1
+Inocybaceae,winter,sul,1
+Inocybe,winter,sul,1
+Inonotus obliquus,winter,norte,3
+Insecta,winter,sul,1
+Ionopezia gerardii,winter,sul,1
+Isotominae,winter,norte,1
+Julella vitrispora,spring,sul,1
+Keroplatidae,autumn,norte,1
+Laccaria,autumn,sul,1
+Laccaria,winter,sul,5
+Laccaria amethystina,winter,sul,1
+Laccaria laccata,winter,sul,2
+Lacrymaria lacrymabunda,spring,sul,1
+Lacrymaria lacrymabunda,winter,sul,1
+Lactarius,winter,sul,1
+Lactarius chrysorrheus,winter,sul,1
+Lactarius deliciosus,autumn,norte,610
+Lactarius deliciosus,autumn,sul,243
+Lactarius deliciosus,spring,norte,2
+Lactarius deliciosus,spring,sul,4
+Lactarius deliciosus,summer,norte,21
+Lactarius deliciosus,summer,sul,2
+Lactarius deliciosus,winter,norte,154
+Lactarius deliciosus,winter,sul,263
+Lactarius tesquorum,winter,sul,1
+Lactarius uvidus,winter,sul,1
+Lactifluus vellereus,autumn,norte,1
+Lactocollybia epia,autumn,sul,1
+Laetiporus sulphureus,autumn,norte,426
+Laetiporus sulphureus,autumn,sul,436
+Laetiporus sulphureus,spring,norte,77
+Laetiporus sulphureus,spring,sul,4
+Laetiporus sulphureus,summer,norte,330
+Laetiporus sulphureus,summer,sul,91
+Laetiporus sulphureus,winter,norte,17
+Laetiporus sulphureus,winter,sul,14
+Lanmaoa fragrans,autumn,sul,2
+Lecanoromycetes,winter,norte,1
+Leccinellum corsicum,winter,sul,1
+Leccinellum lepidum,winter,sul,1
+Lentinula edodes,autumn,norte,3
+Lentinula edodes,spring,norte,1
+Lentinus,spring,sul,1
+Lentinus tigrinus,autumn,norte,1
+Lepiota,autumn,norte,1
+Lepiota,autumn,sul,1
+Lepiota,winter,sul,1
+Lepiota cristata,summer,norte,1
+Lepiota rubella,autumn,sul,1
+Leratiomyces,spring,sul,1
+Leratiomyces ceres,winter,norte,1
+Leratiomyces ceres,winter,sul,3
+Leucocalocybe,winter,sul,1
+Leucocoprinus cepistipes,autumn,norte,36
+Leucocoprinus cepistipes,autumn,sul,14
+Leucocoprinus cepistipes,spring,norte,3
+Leucocoprinus cepistipes,spring,sul,2
+Leucocoprinus cepistipes,summer,norte,4
+Leucocoprinus cepistipes,winter,sul,1
+Leucocoprinus cretaceus,autumn,norte,12
+Leucocoprinus cretaceus,autumn,sul,19
+Leucocoprinus cretaceus,spring,sul,1
+Leucocoprinus cretaceus,summer,norte,1
+Leucocoprinus cretaceus,summer,sul,1
+Lichenomphalia hudsoniana,summer,norte,1
+Lichenomphalia velutina,winter,sul,1
+Life,autumn,norte,1
+Limacellopsis guttata,autumn,sul,1
+Limacus,summer,sul,1
+Limacus flavus,spring,sul,2
+Limax cinereoniger,spring,norte,1
+Linopodes,winter,sul,2
+Lordithon,autumn,norte,1
+Lordithon,summer,norte,1
+Lycoperdaceae,autumn,sul,2
+Lycoperdaceae,spring,sul,1
+Lycoperdaceae,summer,norte,3
+Lycoperdaceae,summer,sul,1
+Lycoperdon,winter,sul,2
+Lycoperdon excipuliforme,winter,sul,1
+Lycoperdon molle,winter,sul,1
+Lycoperdon perlatum,autumn,norte,1
+Lycoperdon perlatum,autumn,sul,1
+Lycoperdon perlatum,winter,sul,3
+Lyophyllum,winter,sul,1
+Lyophyllum decastes,autumn,norte,59
+Lyophyllum decastes,autumn,sul,31
+Lyophyllum decastes,spring,norte,6
+Lyophyllum decastes,spring,sul,13
+Lyophyllum decastes,summer,norte,2
+Lyophyllum decastes,winter,norte,26
+Lyophyllum decastes,winter,sul,38
+Macrocystidia,winter,sul,1
+Macrolepiota,autumn,norte,1
+Macrolepiota procera,autumn,norte,6
+Macrolepiota procera,autumn,sul,1
+Macrolepiota procera,winter,sul,1
+Magnoliopsida,summer,sul,1
+Mannia androgyna,winter,sul,1
+Marasmius,autumn,norte,69
+Marasmius,autumn,sul,43
+Marasmius,spring,norte,8
+Marasmius,spring,sul,3
+Marasmius,summer,norte,21
+Marasmius,summer,sul,1
+Marasmius,winter,norte,15
+Marasmius,winter,sul,24
+Marasmius bulliardii,winter,sul,1
+Marasmius collinus,autumn,sul,1
+Marasmius oreades,autumn,norte,507
+Marasmius oreades,autumn,sul,220
+Marasmius oreades,spring,norte,140
+Marasmius oreades,spring,sul,29
+Marasmius oreades,summer,norte,71
+Marasmius oreades,summer,sul,5
+Marasmius oreades,winter,norte,69
+Marasmius oreades,winter,sul,67
+Marchantia quadrata,autumn,norte,9
+Marchantia quadrata,spring,norte,16
+Marchantia quadrata,spring,sul,4
+Marchantia quadrata,summer,norte,32
+Marchantia quadrata,summer,sul,4
+Marchantia quadrata,winter,norte,5
+Marchantia quadrata,winter,sul,1
+Megacollybia platyphylla,autumn,norte,96
+Megacollybia platyphylla,autumn,sul,20
+Megacollybia platyphylla,spring,norte,12
+Megacollybia platyphylla,summer,norte,70
+Megacollybia platyphylla,winter,norte,11
+Megacollybia platyphylla,winter,sul,6
+Megalosphyinae,autumn,norte,1
+Melanoleuca decembris,winter,sul,1
+Mesophyllum lichenoides,autumn,sul,1
+Micacei,winter,sul,1
+Montagnea radiosa,summer,sul,1
+Morchella,autumn,sul,1
+Morchella,spring,norte,64
+Morchella,spring,sul,14
+Morchella,summer,norte,5
+Morchella,winter,sul,4
+Mutinus elegans,autumn,norte,1
+Mycena,autumn,norte,1
+Mycena,autumn,sul,2
+Mycena,winter,sul,3
+Mycena chlorinosma,autumn,sul,1
+Mycena haematopus,autumn,sul,1
+Mycena pseudocorticola,winter,norte,1
+Mycena rosea,autumn,sul,1
+Mycena tenerrima,winter,norte,1
+Mycenaceae,autumn,sul,1
+Mydaea setifemur,winter,norte,1
+Myennis,summer,sul,1
+Myennis octopunctata,summer,sul,1
+Naematelia aurantia,autumn,sul,1
+Naucoria,autumn,norte,1
+Neobisium,winter,norte,1
+Neobisium,winter,sul,1
+Neoboletus erythropus,summer,norte,1
+Neoleria ruficeps,autumn,norte,1
+Newsteadia floccosa,winter,norte,1
+Oestophora,autumn,norte,1
+Oestophora barbella,winter,sul,1
+Omphalotus,autumn,norte,32
+Omphalotus,autumn,sul,180
+Omphalotus,spring,sul,1
+Omphalotus,summer,norte,4
+Omphalotus,summer,sul,3
+Omphalotus,winter,norte,1
+Omphalotus,winter,sul,34
+Omphalotus illudens,autumn,norte,6
+Omphalotus illudens,summer,norte,19
+Omphalotus olearius,autumn,norte,117
+Omphalotus olearius,autumn,sul,577
+Omphalotus olearius,spring,sul,3
+Omphalotus olearius,summer,norte,1
+Omphalotus olearius,summer,sul,2
+Omphalotus olearius,winter,norte,21
+Omphalotus olearius,winter,sul,172
+Onnia tomentosa,summer,sul,1
+Oudemansiella mucida,autumn,norte,347
+Oudemansiella mucida,spring,norte,3
+Oudemansiella mucida,summer,norte,42
+Oudemansiella mucida,winter,norte,3
+Oudemansiella radicata,autumn,norte,76
+Oudemansiella radicata,autumn,sul,7
+Oudemansiella radicata,spring,norte,4
+Oudemansiella radicata,summer,norte,85
+Oudemansiella radicata,winter,norte,3
+Oudemansiella radicata,winter,sul,2
+Panaeolus antillarum,autumn,norte,1
+Panaeolus foenisecii,autumn,norte,45
+Panaeolus foenisecii,autumn,sul,41
+Panaeolus foenisecii,spring,norte,34
+Panaeolus foenisecii,spring,sul,31
+Panaeolus foenisecii,summer,norte,21
+Panaeolus foenisecii,summer,sul,12
+Panaeolus foenisecii,winter,norte,10
+Panaeolus foenisecii,winter,sul,21
+Panellus,autumn,norte,1
+Panus lecomtei,autumn,norte,4
+Panus lecomtei,autumn,sul,6
+Panus lecomtei,spring,norte,18
+Panus lecomtei,spring,sul,34
+Panus lecomtei,summer,norte,36
+Panus lecomtei,summer,sul,2
+Panus lecomtei,winter,norte,7
+Panus lecomtei,winter,sul,17
+Paragalactinia succosella,autumn,sul,1
+Paralepista flaccida,winter,sul,2
+Parasola conopilea,winter,sul,2
+Paxillus ammoniavirescens,autumn,norte,1
+Pertusaria werneriana,summer,sul,1
+Peyssonnelia,spring,norte,1
+Pezizales,autumn,sul,1
+Phaeoclavulina abietina,autumn,norte,11
+Phaeoclavulina abietina,autumn,sul,7
+Phaeoclavulina abietina,winter,norte,2
+Phaeoclavulina abietina,winter,sul,3
+Phallus impudicus,autumn,norte,322
+Phallus impudicus,autumn,sul,145
+Phallus impudicus,spring,norte,22
+Phallus impudicus,spring,sul,9
+Phallus impudicus,summer,norte,208
+Phallus impudicus,summer,sul,5
+Phallus impudicus,winter,norte,105
+Phallus impudicus,winter,sul,311
+Pholiota,winter,sul,1
+Pholiota adiposa,autumn,norte,6
+Pholiota adiposa,autumn,sul,1
+Pholiota adiposa,spring,sul,1
+Pholiota adiposa,summer,norte,1
+Pholiota adiposa,winter,sul,1
+Pholiota highlandensis,winter,sul,1
+Pholiota spumosa,autumn,sul,1
+Phyllotopsis nidulans,autumn,norte,21
+Phyllotopsis nidulans,spring,norte,5
+Phyllotopsis nidulans,spring,sul,1
+Phyllotopsis nidulans,summer,norte,2
+Phyllotopsis nidulans,winter,norte,9
+Physalacriaceae,autumn,norte,1
+Physaraceae,autumn,sul,1
+Physarum album,spring,sul,1
+Pisolithus,winter,sul,2
+Pisolithus arhizus,winter,sul,1
+Pleurotus,autumn,norte,108
+Pleurotus,autumn,sul,32
+Pleurotus,spring,norte,13
+Pleurotus,spring,sul,8
+Pleurotus,summer,norte,15
+Pleurotus,summer,sul,3
+Pleurotus,winter,norte,29
+Pleurotus,winter,sul,34
+Pleurotus eryngii,autumn,norte,178
+Pleurotus eryngii,autumn,sul,66
+Pleurotus eryngii,spring,norte,40
+Pleurotus eryngii,spring,sul,24
+Pleurotus eryngii,summer,norte,6
+Pleurotus eryngii,summer,sul,1
+Pleurotus eryngii,winter,norte,48
+Pleurotus eryngii,winter,sul,37
+Pleurotus ostreatus,autumn,norte,208
+Pleurotus ostreatus,autumn,sul,81
+Pleurotus ostreatus,spring,norte,19
+Pleurotus ostreatus,spring,sul,4
+Pleurotus ostreatus,summer,norte,22
+Pleurotus ostreatus,summer,sul,5
+Pleurotus ostreatus,winter,norte,85
+Pleurotus ostreatus,winter,sul,72
+Pleurotus populinus,autumn,norte,5
+Pleurotus populinus,autumn,sul,2
+Pleurotus populinus,summer,norte,1
+Pleurotus populinus,winter,norte,1
+Pleurotus populinus,winter,sul,6
+Pluteaceae,winter,sul,1
+Pluteus,autumn,norte,97
+Pluteus,autumn,sul,56
+Pluteus,spring,norte,21
+Pluteus,spring,sul,21
+Pluteus,summer,norte,23
+Pluteus,summer,sul,4
+Pluteus,winter,norte,33
+Pluteus,winter,sul,50
+Pluteus atromarginatus,autumn,sul,1
+Pluteus cervinus,autumn,norte,115
+Pluteus cervinus,autumn,sul,28
+Pluteus cervinus,spring,norte,60
+Pluteus cervinus,spring,sul,12
+Pluteus cervinus,summer,norte,46
+Pluteus cervinus,winter,norte,74
+Pluteus cervinus,winter,sul,44
+Pluteus chrysophlebius,spring,norte,1
+Pluteus exilis,autumn,norte,3
+Pluteus exilis,autumn,sul,1
+Pluteus exilis,spring,norte,2
+Pluteus exilis,winter,norte,2
+Pluteus exilis,winter,sul,3
+Pluteus salicinus,autumn,sul,1
+Poduromorpha,autumn,norte,1
+Poduromorpha,winter,sul,1
+Polyporales,autumn,norte,1
+Polyporales,autumn,sul,3
+Protostropharia semiglobata,spring,norte,1
+Psathyrella,summer,sul,1
+Psathyrella,winter,sul,4
+Psathyrella ammophila,spring,norte,1
+Psathyrellaceae,autumn,norte,3
+Psathyrellaceae,autumn,sul,1
+Psathyrellaceae,summer,sul,2
+Psathyrellaceae,winter,sul,1
+Pseudoclitocybe cyathiformis,winter,sul,1
+Pseudoscorpiones,autumn,norte,1
+Psilocybe,autumn,norte,20
+Psilocybe,autumn,sul,2
+Psilocybe,spring,norte,1
+Psilocybe,winter,sul,3
+Psilocybe cubensis,winter,norte,1
+Psilocybe gallaeciae,autumn,norte,8
+Psilocybe semilanceata,autumn,norte,129
+Psilocybe semilanceata,autumn,sul,4
+Psilocybe semilanceata,spring,norte,2
+Psilocybe semilanceata,summer,norte,3
+Psilocybe semilanceata,winter,norte,11
+Psilocybe semilanceata,winter,sul,1
+Psocodea,autumn,norte,1
+Psychodinae,winter,sul,1
+Rhizocarpon geographicum,summer,sul,1
+Rinodina oxydata,summer,sul,1
+Ritterella rubra,autumn,sul,1
+Roridomyces appendiculatus,autumn,sul,1
+Russula,autumn,norte,2
+Russula,spring,sul,2
+Russula,winter,norte,1
+Russula,winter,sul,6
+Russula adusta,autumn,sul,1
+Russula atropurpurea,autumn,sul,1
+Russula torulosa,winter,sul,1
+Russulaceae,autumn,sul,1
+Russulales,summer,sul,1
+Salamandra salamandra,winter,sul,1
+Sarcomyxa serotina,autumn,norte,11
+Sarcomyxa serotina,winter,norte,3
+Sarcoscypha,spring,norte,1
+Schizophora,autumn,sul,1
+Schizophyllum commune,autumn,norte,242
+Schizophyllum commune,autumn,sul,293
+Schizophyllum commune,spring,norte,291
+Schizophyllum commune,spring,sul,419
+Schizophyllum commune,summer,norte,102
+Schizophyllum commune,summer,sul,98
+Schizophyllum commune,winter,norte,369
+Schizophyllum commune,winter,sul,712
+Sciaridae,winter,sul,1
+Sciaroidea,autumn,norte,1
+Sciaroidea,winter,norte,1
+Sciurus vulgaris,autumn,sul,2
+Scleroderma,autumn,sul,1
+Scleroderma meridionale,winter,sul,1
+Scleroderma polyrhizum,autumn,sul,1
+Scleroderma polyrhizum,winter,sul,1
+Sclerodermataceae,winter,sul,1
+Sepsidae,autumn,norte,1
+Sminthurinus,winter,sul,1
+Sparassis,autumn,norte,39
+Sparassis,autumn,sul,10
+Sparassis,summer,norte,6
+Sparassis,winter,norte,8
+Sparassis,winter,sul,2
+Sparassis crispa,autumn,norte,1
+Sphaerobolus stellatus,autumn,sul,1
+Staphylinidae,winter,sul,1
+Stereum,summer,norte,1
+Stereum,winter,sul,1
+Stereum hirsutum,spring,sul,1
+Stereum hirsutum,winter,sul,1
+Sternorrhyncha,winter,sul,1
+Strigamia,autumn,norte,1
+Stropharia,autumn,norte,1
+Strophariaceae,winter,sul,1
+Stylommatophora,winter,sul,1
+Subniveae,autumn,sul,1
+Suillellus luridus,winter,sul,1
+Suillellus queletii,autumn,sul,2
+Suillia,winter,sul,1
+Suillia variegata,autumn,sul,1
+Suillus,autumn,norte,1
+Suillus bovinus,autumn,norte,225
+Suillus bovinus,autumn,sul,29
+Suillus bovinus,spring,norte,16
+Suillus bovinus,spring,sul,7
+Suillus bovinus,summer,norte,3
+Suillus bovinus,winter,norte,116
+Suillus bovinus,winter,sul,47
+Suillus collinitus,autumn,norte,1
+Suillus collinitus,autumn,sul,3
+Suillus collinitus,spring,sul,1
+Terana coerulea,winter,sul,1
+Termitoidae,summer,sul,1
+Trametes,autumn,norte,1
+Trametes,winter,sul,1
+Trametes versicolor,autumn,norte,539
+Trametes versicolor,autumn,sul,167
+Trametes versicolor,spring,norte,290
+Trametes versicolor,spring,sul,137
+Trametes versicolor,summer,norte,152
+Trametes versicolor,summer,sul,41
+Trametes versicolor,winter,norte,450
+Trametes versicolor,winter,sul,284
+Trichaptum,autumn,sul,1
+Trichaptum biforme,autumn,sul,1
+Trichia,winter,sul,1
+Tricholoma,autumn,norte,1
+Tricholoma equestre,autumn,norte,1
+Tricholoma sulphureum,winter,sul,2
+Tubaria,winter,sul,3
+Tubaria furfuracea,winter,sul,1
+Umbilicaria crustulosa,summer,norte,1
+Usnea,summer,norte,1
+Usnea florida,winter,norte,1
+Vaginatae,spring,sul,1
+Vertebrata,spring,sul,1
+Vibrissea truncorum,autumn,sul,1
+Vibrissea truncorum,spring,norte,5
+Vibrissea truncorum,summer,norte,7
+Volvariella bombycina,winter,sul,1
+Volvariella volvacea,spring,norte,2
+Volvariella volvacea,winter,sul,1
+Volvopluteus,winter,sul,2
+Volvopluteus gloiocephalus,autumn,norte,634
+Volvopluteus gloiocephalus,autumn,sul,922
+Volvopluteus gloiocephalus,spring,norte,27
+Volvopluteus gloiocephalus,spring,sul,30
+Volvopluteus gloiocephalus,summer,norte,12
+Volvopluteus gloiocephalus,summer,sul,6
+Volvopluteus gloiocephalus,winter,norte,237
+Volvopluteus gloiocephalus,winter,sul,1117
+Xerocomus,autumn,sul,1
+Xylodon flaviporus,winter,sul,1

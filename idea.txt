@@ -1,0 +1,66 @@
+DW Revisado (Star Schema para Tableau OLAP)
+Fato: fact_mushroom_observation
+Atributo	Tipo	Descrição
+obs_id	INT PK	Unique observation
+species_id (FK)	INT	Link Dim_Species
+location_id (FK)	INT	Link Dim_Location (coord lat/long)
+time_id (FK)	INT	Link Dim_Time
+edible	BOOL	Class: e(1) / p(0)
+observation_count	INT	# specimens observed
+media_count	INT	# photos
+Dimensões
+
+Dim_Species (species_id, scientific_name, common_name, family, edibility_status, toxicity_level)
+Dim_Location (location_id, latitude, longitude, region_pt, habitat_type, country)
+Dim_Time (time_id, observation_date, year, month, season, week, day_of_week)
+DM Revisado (2+ tipos analytics + Tableau interactions)
+DW Queries (Descriptive + Diagnostic)
+
+    Espécies mais observadas por região/season → Tableau map (lat/long, season filter) + time-series
+
+    Taxa edibilidade por habitat/season → Bar chart por habitat, filtro temporal
+
+    Padrões sazonal: picos tóxicos vs comestíveis → Line chart edible/poisonous over month
+
+    Diferenças geográficas: risco tóxico Ibéria nord vs sul → Map fill color edible%
+
+DM Queries (Predictive + Prescriptive)
+
+    Previsão: dada observação (lat, month, habitat), probabilidade de ser tóxico? → RFC/XGB modelo, deploy Tableau parameter
+
+    Prescriptivo: recomendações seguras de forrageio → Filter habitat+season com <X% tóxico, recomenda espécies seguras
+
+Tableau Views (2+ tipos interaction)
+View	Type	Filters/Parameters	Insight
+Map: Edible Risk Heatmap	Geographic	Region, Season slider	Location-based: qual região/época mais segura
+Time Series: Species Seasonality	Temporal	Species multi-select, Year range	Time-based: quando aparecem tóxicas?
+Species Recommendation	Parametric	Habitat dropdown, Season button	Prescriptive: que espécies colher agora (seguras)?
+Risk Comparison: Toxic % by Habitat	Analytical	Habitat filter, edibility toggle	Diagnostic: habitats com mais risco?
+Proposta DW/DM Concreta (Revisada)
+BIG Questions (4 principais):
+
+DW (OLAP):
+
+    Qual é a distribuição espaço-temporal de cogumelos tóxicos na Península Ibérica? (Descriptive: map + time-series habitats/seasons)
+
+    Quais habitats e estações concentram maior risco tóxico? (Diagnostic: análise comparativa região/season)
+
+DM (ML + Prescriptive):
+
+    Dado um habitat, latitude, e mês, qual a probabilidade de encontrar cogumelo tóxico? (Predictive: RFC classifier)
+
+    Que espécies e habitats recomendas para forrageio seguro em cada estação? (Prescriptive: SHAP explainability + filtros Tableau)
+
+ETL + Tableau Setup
+text
+
+# 1. Load iNaturalist Iberia (já tens)
+df_inat = pd.read_csv('inat_iberia_mushrooms.csv')  # cols: observed_on, lat, long, scientific_name, user_id, ...
+
+# 2. Map to DW schema
+df_inat['edible'] = df_inat['scientific_name'].map(lambda x: 1 if 'edible_lookup[x]' else 0)
+df_inat['season'] = pd.to_datetime(df_inat['observed_on']).dt.month.map({3-5: 's', 6-8: 'u', 9-11: 'a', 12,1,2: 'w'})
+df_inat['region'] = df_inat['lat'].map(lambda x: 'norte' if x > 40.5 else 'sul')  # Proxy PT/ES divide
+
+# 3. Load into PostgreSQL (DW)
+# star schema: insert facts + dims → indexar loc_id, time_id, species_id
