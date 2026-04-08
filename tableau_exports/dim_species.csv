@@ -1,404 +1,351 @@
 species_id,scientific_name,common_name,family,edibility_status,toxicity_level
-1,Schizophyllum commune,splitgill mushroom,Schizophyllaceae,unknown,unknown
-2,Armillaria,honey mushrooms,Physalacriaceae,unknown,unknown
-3,Trametes versicolor,turkey-tail,Polyporaceae,unknown,unknown
+1,Schizophyllum commune,splitgill mushroom,,unknown,unknown
+2,Armillaria,honey mushrooms,,unknown,unknown
+3,Trametes versicolor,turkey-tail,,unknown,unknown
 4,Agaricomycetes,"Mushrooms, Bracket Fungi, Puffballs, and Allies",,unknown,unknown
-5,Cynomorium coccineum,Red Thumb,Cynomoriaceae,unknown,unknown
-6,Phallus impudicus,common stinkhorn,Phallaceae,unknown,unknown
-7,Marasmius oreades,fairy ring marasmius,Marasmiaceae,unknown,unknown
-8,Clathrus ruber,red-cage fungus,Clathraceae,unknown,unknown
+5,Cynomorium coccineum,Red Thumb,,unknown,unknown
+6,Phallus impudicus,common stinkhorn,,unknown,unknown
+7,Marasmius oreades,fairy ring marasmius,,unknown,unknown
+8,Clathrus ruber,red-cage fungus,,unknown,unknown
 9,Agaricales,Common Gilled Mushrooms and Allies,,unknown,unknown
-10,Amanita muscaria,Fly Agaric,Amanitaceae,poisonous,high
-11,Lactarius deliciosus,saffron milkcap,Russulaceae,edible,low
-12,Amanita caesarea,Caesar's mushroom,Amanitaceae,unknown,unknown
-13,Macrolepiota procera,Parasol,Agaricaceae,unknown,unknown
-14,Agaricaceae,Field Mushrooms and Allies,Agaricaceae,unknown,unknown
-15,Mycenaceae,,Mycenaceae,unknown,unknown
-16,Sarcoscypha,Elf Cups,Sarcoscyphaceae,unknown,unknown
-17,Marasmius,Pinwheels and Parachute Mushrooms,Marasmiaceae,unknown,unknown
+10,Amanita muscaria,Fly Agaric,,poisonous,high
+11,Lactarius deliciosus,saffron milkcap,,edible,low
+12,Amanita caesarea,Caesar's mushroom,,unknown,unknown
+13,Macrolepiota procera,Parasol,,unknown,unknown
+14,Agaricaceae,Field Mushrooms and Allies,,unknown,unknown
+15,Mycenaceae,,,unknown,unknown
+16,Sarcoscypha,Elf Cups,,unknown,unknown
+17,Marasmius,Pinwheels and Parachute Mushrooms,,unknown,unknown
 18,Basidiomycota,Basidiomycete Fungi,,unknown,unknown
-19,Pholiota highlandensis,Bonfire Scalycap,Strophariaceae,unknown,unknown
-20,Panaeolus foenisecii,Mower's Mushroom,Galeropsidaceae,unknown,unknown
-21,Leccinellum corsicum,,Boletaceae,unknown,unknown
-22,Hexagonia nitida,,Polyporaceae,unknown,unknown
-23,Scleroderma polyrhizum,Many-rooted Earthball,Sclerodermataceae,unknown,unknown
-24,Fuscoporia torulosa,Tufted Bracket,Hymenochaetaceae,unknown,unknown
-25,Amanita ponderosa,Heavy Amidella,Amanitaceae,unknown,unknown
-26,Entoloma cistophilum,,Entolomataceae,unknown,unknown
-27,Pisolithus,,Pisolithaceae,unknown,unknown
-28,Pisolithus arhizus,Dyeball,Pisolithaceae,unknown,unknown
-29,Agaricus,field and button mushrooms,Agaricaceae,unknown,unknown
-30,Laetiporus sulphureus,chicken of the woods,Laetiporaceae,unknown,unknown
-31,Xerocomus,,Boletaceae,unknown,unknown
-32,Agaricus bitorquis,Pavement Mushroom,Agaricaceae,unknown,unknown
-33,Mycena haematopus,Bleeding Fairy Helmet,Mycenaceae,unknown,unknown
-34,Omphalotus olearius,European jack-o'-lantern,Omphalotaceae,poisonous,high
-35,Lactarius chrysorrheus,Yellowdrop Milkcap,Russulaceae,unknown,unknown
-36,Amanitaceae,amanita mushrooms and allies,Amanitaceae,unknown,unknown
-37,Volvopluteus gloiocephalus,Stubble Rosegill,Pluteaceae,unknown,unknown
-38,Amanita,amanita mushrooms,Amanitaceae,unknown,unknown
-39,Agaricus campestris,Meadow Mushroom,Agaricaceae,edible,low
-40,Aleocharinae,,Staphylinidae,unknown,unknown
-41,Parasola conopilea,conical brittlestem,Psathyrellaceae,unknown,unknown
-42,Inocybe,Fiber Caps,Inocybaceae,unknown,unknown
-43,Hygrophorus glutinifer,Snakeskin Woodwax,Hygrophoraceae,unknown,unknown
-44,Pluteus,Shields,Pluteaceae,unknown,unknown
-45,Bolbitius titubans,yellow fieldcap,Bolbitiaceae,unknown,unknown
-46,Pleurotus eryngii,King Trumpet Mushroom,Pleurotaceae,edible,low
-47,Hygrocybe,Hygrocybe subsect. Hygrocybe,Hygrophoraceae,unknown,unknown
-48,Suillellus luridus,Lurid Bolete,Boletaceae,unknown,unknown
-49,Fungi,Fungi Including Lichens,,unknown,unknown
-50,Lycoperdon,,Lycoperdaceae,unknown,unknown
-51,Cerioporus squamosus,Dryad's Saddle,Polyporaceae,unknown,unknown
-52,Oudemansiella mucida,porcelain mushroom,Physalacriaceae,unknown,unknown
-53,Vaginatae,Amanita sect. Vaginatae,Amanitaceae,unknown,unknown
-54,Calocybe gambosa,St. George's Mushroom,Lyophyllaceae,unknown,unknown
-55,Montagnea radiosa,,Coprinaceae,unknown,unknown
-56,Omphalotus,jack-o'-lantern mushrooms,Omphalotaceae,unknown,unknown
-57,Armillaria ostoyae,Honey Mushroom,Physalacriaceae,unknown,unknown
-58,Armillaria mellea,Honey Mushroom,Physalacriaceae,unknown,unknown
-59,Mycena pseudocorticola,Steely Bonnet,Mycenaceae,unknown,unknown
-60,Hypholoma fasciculare,Sulphur Tuft,Strophariaceae,unknown,unknown
-61,Acari,Mites and Ticks,,unknown,unknown
-62,Suillus bovinus,Bovine Jack,Suillaceae,unknown,unknown
-63,Hypsizygus ulmarius,Elm Mushroom,Lyophyllaceae,unknown,unknown
-64,Gliophorus,waxcaps,Hygrophoraceae,unknown,unknown
-65,Pleurotus,Oyster Mushrooms,Pleurotaceae,unknown,unknown
-66,Pluteaceae,,Pluteaceae,unknown,unknown
-67,Agaricus xanthodermus,Yellow Stainer,Agaricaceae,unknown,unknown
-68,Sparassis,cauliflower mushrooms,Sparassidaceae,unknown,unknown
-69,Russula,brittlegills,Russulaceae,unknown,unknown
-70,Agaricus litoralis,coastal mushroom,Agaricaceae,unknown,unknown
-71,Amanita citrina,False Death-cap,Amanitaceae,unknown,unknown
-72,Panus lecomtei,Hairy Oyster Mushroom,Panaceae,unknown,unknown
-73,Volvariella volvacea,paddy straw mushroom,Volvariellaceae,unknown,unknown
-74,Agaricus bisporus,White Button Mushroom,Agaricaceae,unknown,unknown
-75,Coprinopsis lagopus,hare's foot inkcap,Psathyrellaceae,unknown,unknown
-76,Oudemansiella radicata,rooting shank,Physalacriaceae,unknown,unknown
-77,Pleurotus ostreatus,Oyster Mushroom,Pleurotaceae,edible,low
-78,Agaricus arvensis,Horse Mushroom,Agaricaceae,unknown,unknown
-79,Megacollybia platyphylla,European Platterful Mushroom,Porotheleaceae,unknown,unknown
-80,Sciurus vulgaris,Eurasian Red Squirrel,Sciuridae,unknown,unknown
-81,Pluteus cervinus,Deer Mushroom,Pluteaceae,unknown,unknown
-82,Lyophyllum decastes,Fried Chicken Mushroom,Lyophyllaceae,unknown,unknown
+19,Pholiota highlandensis,Bonfire Scalycap,,unknown,unknown
+20,Panaeolus foenisecii,Mower's Mushroom,,unknown,unknown
+21,Leccinellum corsicum,,,unknown,unknown
+22,Hexagonia nitida,,,unknown,unknown
+23,Scleroderma polyrhizum,Many-rooted Earthball,,unknown,unknown
+24,Fuscoporia torulosa,Tufted Bracket,,unknown,unknown
+25,Amanita ponderosa,Heavy Amidella,,unknown,unknown
+26,Entoloma cistophilum,,,unknown,unknown
+27,Pisolithus,,,unknown,unknown
+28,Pisolithus arhizus,Dyeball,,unknown,unknown
+29,Agaricus,field and button mushrooms,,unknown,unknown
+30,Laetiporus sulphureus,chicken of the woods,,unknown,unknown
+31,Xerocomus,,,unknown,unknown
+32,Agaricus bitorquis,Pavement Mushroom,,unknown,unknown
+33,Mycena haematopus,Bleeding Fairy Helmet,,unknown,unknown
+34,Omphalotus olearius,European jack-o'-lantern,,poisonous,high
+35,Lactarius chrysorrheus,Yellowdrop Milkcap,,unknown,unknown
+36,Fungi,Fungi Including Lichens,,unknown,unknown
+37,Amanitaceae,amanita mushrooms and allies,,unknown,unknown
+38,Volvopluteus gloiocephalus,Stubble Rosegill,,unknown,unknown
+39,Amanita,amanita mushrooms,,unknown,unknown
+40,Agaricus campestris,Meadow Mushroom,,edible,low
+41,Parasola conopilea,conical brittlestem,,unknown,unknown
+42,Inocybe,Fiber Caps,,unknown,unknown
+43,Hygrophorus glutinifer,Snakeskin Woodwax,,unknown,unknown
+44,Pluteus,Shields,,unknown,unknown
+45,Bolbitius titubans,yellow fieldcap,,unknown,unknown
+46,Pleurotus eryngii,King Trumpet Mushroom,,edible,low
+47,Hygrocybe,Hygrocybe subsect. Hygrocybe,,unknown,unknown
+48,Suillellus luridus,Lurid Bolete,,unknown,unknown
+49,Lycoperdon,,,unknown,unknown
+50,Cerioporus squamosus,Dryad's Saddle,,unknown,unknown
+51,Oudemansiella mucida,porcelain mushroom,,unknown,unknown
+52,Vaginatae,Amanita sect. Vaginatae,,unknown,unknown
+53,Calocybe gambosa,St. George's Mushroom,,unknown,unknown
+54,Montagnea radiosa,,,unknown,unknown
+55,Omphalotus,jack-o'-lantern mushrooms,,unknown,unknown
+56,Armillaria ostoyae,Honey Mushroom,,unknown,unknown
+57,Armillaria mellea,Honey Mushroom,,unknown,unknown
+58,Mycena pseudocorticola,Steely Bonnet,,unknown,unknown
+59,Hypholoma fasciculare,Sulphur Tuft,,unknown,unknown
+60,Suillus bovinus,Bovine Jack,,unknown,unknown
+61,Hypsizygus ulmarius,Elm Mushroom,,unknown,unknown
+62,Gliophorus,waxcaps,,unknown,unknown
+63,Pleurotus,Oyster Mushrooms,,unknown,unknown
+64,Agaricus bisporus,White Button Mushroom,,unknown,unknown
+65,Pluteaceae,,,unknown,unknown
+66,Agaricus xanthodermus,Yellow Stainer,,unknown,unknown
+67,Polyporaceae,Bracket Fungi,,unknown,unknown
+68,Sparassis,cauliflower mushrooms,,unknown,unknown
+69,Russula,brittlegills,,unknown,unknown
+70,Agaricus litoralis,coastal mushroom,,unknown,unknown
+71,Amanita citrina,False Death-cap,,unknown,unknown
+72,Panus lecomtei,Hairy Oyster Mushroom,,unknown,unknown
+73,Agaricus langei,Scaly Wood Mushroom,,unknown,unknown
+74,Volvariella volvacea,paddy straw mushroom,,unknown,unknown
+75,Coprinopsis lagopus,hare's foot inkcap,,unknown,unknown
+76,Agaricus arvensis,Horse Mushroom,,unknown,unknown
+77,Agaricus sylvaticus,Blushing Wood Mushroom,,unknown,unknown
+78,Oudemansiella radicata,rooting shank,,unknown,unknown
+79,Pleurotus ostreatus,Oyster Mushroom,,edible,low
+80,Megacollybia platyphylla,European Platterful Mushroom,,unknown,unknown
+81,Pluteus cervinus,Deer Mushroom,,unknown,unknown
+82,Lyophyllum decastes,Fried Chicken Mushroom,,unknown,unknown
 83,Boletales,boletes and allies,,unknown,unknown
-84,Agaricus sylvaticus,Blushing Wood Mushroom,Agaricaceae,unknown,unknown
-85,Clitopilus prunulus,Sweetbread Mushroom,Entolomataceae,unknown,unknown
-86,Hydnum,hedgehog mushrooms,Hydnaceae,unknown,unknown
-87,Phyllotopsis nidulans,Stinking Orange Oyster,Phyllotopsidaceae,unknown,unknown
-88,Hypogastruridae,Hypogastrurid Springtails,Hypogastruridae,unknown,unknown
-89,Agaricus brunneolus,Lilac Mushroom,Agaricaceae,unknown,unknown
-90,Stereum,,Stereaceae,unknown,unknown
-91,Laccaria,Deceivers,Hydnangiaceae,unknown,unknown
-92,Morchella,true morels,Morchellaceae,unknown,unknown
-93,Auricularia mesenterica,Tripe Fungus,Auriculariaceae,unknown,unknown
-94,Psathyrellaceae,Brittlestems and Allies,Psathyrellaceae,unknown,unknown
-95,Lepiota cristata,Stinking Dapperling,Verrucosporaceae,unknown,unknown
-96,Russulales,,,unknown,unknown
-97,Onnia tomentosa,Woolly Velvet Polypore,Hymenochaetaceae,unknown,unknown
-98,Leucocoprinus cepistipes,onion-stalk parasol,Agaricaceae,unknown,unknown
-99,Amanita,Amanita subsect. Amanita,Amanitaceae,unknown,unknown
-100,Panaeolus antillarum,,Galeropsidaceae,unknown,unknown
-101,Agaricus crocodilinus,Macro Mushroom,Agaricaceae,unknown,unknown
-102,Didymium spongiosum,Dog Sick Slime Mould,Didymiaceae,unknown,unknown
-103,Mycena,Bonnets,Mycenaceae,unknown,unknown
-104,Hygrophorus chrysodon,Gold Dust Waxy Cap,Hygrophoraceae,unknown,unknown
-105,Hygrophorus eburneus,Cowboy's Handkerchief,Hygrophoraceae,unknown,unknown
-106,Hygrophorus cossus,Goath Moth Woodwax,Hygrophoraceae,unknown,unknown
-107,Lichenomphalia velutina,,Hygrophoraceae,unknown,unknown
-108,Hygrocybe,Waxcaps,Hygrophoraceae,unknown,unknown
-109,Agaricus augustus,The Prince,Agaricaceae,unknown,unknown
-110,Calonarius,Chalkland Webcaps,Cortinariaceae,unknown,unknown
-111,Lactarius tesquorum,,Russulaceae,unknown,unknown
-112,Stereum hirsutum,hairy curtain crust,Stereaceae,unknown,unknown
-113,Russula torulosa,Brawny Brittlegill,Russulaceae,unknown,unknown
-114,Collybia nuda,Blewit,Clitocybaceae,unknown,unknown
-115,Entoloma,Pinkgills,Entolomataceae,unknown,unknown
-116,Clitocybe,Funnels,Clitocybaceae,unknown,unknown
-117,Infundibulicybe squamulosa,,Omphalinaceae,unknown,unknown
-118,Clitocybe nebularis,Cloudy Clitocybe,Clitocybaceae,unknown,unknown
-119,Psathyrella,Brittlestems,Psathyrellaceae,unknown,unknown
-120,Candolleomyces candolleanus,Pale Brittlestem,Psathyrellaceae,unknown,unknown
-121,Coprinellus domesticus,Firerug Inkcap,Psathyrellaceae,unknown,unknown
-122,Coprinellus,,Psathyrellaceae,unknown,unknown
-123,Coprinus comatus,Shaggy Mane,Coprinaceae,unknown,unknown
-124,Lacrymaria lacrymabunda,weeping widow,Psathyrellaceae,unknown,unknown
-125,Hebeloma crustuliniforme,Poison Pie,Hymenogastraceae,unknown,unknown
-126,Hebeloma cistophilum,,Hymenogastraceae,unknown,unknown
-127,Hebeloma sarcophyllum,,Hymenogastraceae,unknown,unknown
-128,Melanoleuca decembris,,Melanoleucaceae,unknown,unknown
-129,Suillus collinitus,,Suillaceae,unknown,unknown
-130,Leccinellum lepidum,neat bolete,Boletaceae,unknown,unknown
-131,Amanita gioiosa,Pebbly Soil Amanita,Amanitaceae,unknown,unknown
-132,Lyophyllum,Domecaps,Lyophyllaceae,unknown,unknown
-133,Hemileccinum impolitum,Iodine Bolete,Boletaceae,unknown,unknown
-134,Agaricus sylvicola,Wood Mushroom,Agaricaceae,unknown,unknown
-135,Gymnopus dryophilus,Oak-loving Gymnopus,Omphalotaceae,unknown,unknown
-136,Gymnopilus suberis,,Hymenogastraceae,unknown,unknown
-137,Pseudoclitocybe cyathiformis,The Goblet,Pseudoclitocybaceae,unknown,unknown
-138,Lycoperdon molle,Smooth Puffball,Lycoperdaceae,unknown,unknown
-139,Amanita curtipes,,Amanitaceae,unknown,unknown
-140,Agaricus dulcidulus,Rosy Wood Mushroom,Agaricaceae,unknown,unknown
-141,Chlorophyllum brunneum,Shaggy Parasol,Agaricaceae,unknown,unknown
-142,Gymnopilus,rustgills and gyms,Hymenogastraceae,unknown,unknown
-143,Agaricus cupreobrunneus,,Agaricaceae,unknown,unknown
-144,Gymnopilus junonius,Spectacular Rustgill,Hymenogastraceae,unknown,unknown
-145,Pholiota spumosa,Slender Pholiota,Strophariaceae,unknown,unknown
-146,Lycoperdon perlatum,common puffball,Lycoperdaceae,unknown,unknown
-147,Lycoperdaceae,puffballs,Lycoperdaceae,unknown,unknown
-148,Abortiporus biennis,Blushing Rosette,Podoscyphaceae,unknown,unknown
-149,Laccaria laccata,deceiver,Hydnangiaceae,unknown,unknown
-150,Pholiota,Scalycaps,Strophariaceae,unknown,unknown
-151,Terana coerulea,Cobalt Crust,Phanerochaetaceae,unknown,unknown
-152,Scleroderma meridionale,,Sclerodermataceae,unknown,unknown
-153,Galactinia saniosa,,Pezizaceae,unknown,unknown
-154,Ionopezia gerardii,mull disco,Pezizaceae,unknown,unknown
-155,Mannia androgyna,,Aytoniaceae,unknown,unknown
-156,Xylodon flaviporus,,Schizoporaceae,unknown,unknown
-157,Mutinus elegans,devil's dipstick,Phallaceae,unknown,unknown
-158,Agaricus moelleri,Inky Agaricus,Agaricaceae,unknown,unknown
-159,Leucocoprinus cretaceus,white chalk mushroom,Agaricaceae,unknown,unknown
-160,Cryptomarasmius corbariensis,Oliveleaf Crypto,Physalacriaceae,unknown,unknown
-161,Trichaptum biforme,violet-toothed polypore,Hymenochaetaceae,unknown,unknown
-162,Agaricineae,,,unknown,unknown
-163,Cortinarius trivialis,girdled webcap,Cortinariaceae,unknown,unknown
-164,Oestophora barbella,,Trissexodontidae,unknown,unknown
-165,Deroceras,Smooth Land Slugs,Agriolimacidae,unknown,unknown
-166,Cortinariaceae,Webcaps,Cortinariaceae,unknown,unknown
-167,Psychodinae,Moth Flies,Psychodidae,unknown,unknown
-168,Staphylinidae,Rove Beetles,Staphylinidae,unknown,unknown
-169,Gliophorus psittacinus,Parrot Mushroom,Hygrophoraceae,unknown,unknown
-170,Asterophora parasitica,Silky Piggyback,Lyophyllaceae,unknown,unknown
-171,Gibbaranea bituberculata,Two-tubercled Orb-web,Araneidae,unknown,unknown
-172,Agaricus langei,Scaly Wood Mushroom,Agaricaceae,unknown,unknown
-173,Hygrophorus,Woodwaxes,Hygrophoraceae,unknown,unknown
-174,Calocera viscosa,Jelly-antler,Dacrymycetaceae,unknown,unknown
-175,Strophariaceae,,Strophariaceae,unknown,unknown
-176,Paragalactinia succosella,,Pezizaceae,unknown,unknown
-177,Psilocybe,Psilocybe Mushrooms,Hymenogastraceae,unknown,unknown
-178,Neoboletus erythropus,Dotted Stem Bolete,Boletaceae,unknown,unknown
-179,Omphalotus illudens,Eastern American jack-o'-lantern,Omphalotaceae,unknown,unknown
-180,Pluteus exilis,Western Deer Mushroom,Pluteaceae,unknown,unknown
-181,Vertebrata,Vertebrates,,unknown,unknown
-182,Vibrissea truncorum,water club mushroom,Vibrisseaceae,unknown,unknown
-183,Myennis octopunctata,,Ulidiidae,unknown,unknown
-184,Pleurotus populinus,aspen oyster mushroom,Pleurotaceae,unknown,unknown
-185,Cyclocybe cylindracea,Poplar Fieldcap,Tubariaceae,unknown,unknown
-186,Agaricus bohusii,medusa mushroom,Agaricaceae,unknown,unknown
-187,Hortiboletus rubellus,Ruby Bolete,Boletaceae,unknown,unknown
-188,Collybia personata,Field Blewit,Clitocybaceae,unknown,unknown
-189,Lepiota,,Verrucosporaceae,unknown,unknown
-190,Physalacriaceae,,Physalacriaceae,unknown,unknown
-191,Inocybaceae,Fibercaps and Allies,Inocybaceae,unknown,unknown
-192,Psilocybe semilanceata,Liberty Cap,Hymenogastraceae,unknown,unknown
-193,Stropharia,Roundheads,Strophariaceae,unknown,unknown
-194,Tricholoma,Knights,Tricholomataceae,unknown,unknown
-195,Trametes,Turkey-tails and allies,Polyporaceae,unknown,unknown
-196,Cupressus,cypresses,Cupressaceae,unknown,unknown
-197,Sclerodermataceae,,Sclerodermataceae,unknown,unknown
-198,Tricholoma sulphureum,Sulphur Knight,Tricholomataceae,unknown,unknown
-199,Tubaria,Twiglets,Tubariaceae,unknown,unknown
-200,Trichia,,Trichiaceae,unknown,unknown
-201,Leratiomyces ceres,Chip Cherries,Strophariaceae,unknown,unknown
-202,Geoglossum,Earth Tongues,Geoglossaceae,unknown,unknown
-203,Hericium erinaceus,lion's-mane mushroom,Hericiaceae,unknown,unknown
-204,Marchantia quadrata,Narrow Mushroom-headed Liverwort,Marchantiaceae,unknown,unknown
-205,Insecta,Insects,,unknown,unknown
-206,Neobisium,,Neobisiidae,unknown,unknown
-207,Coprinopsis picacea,Magpie Inkcap,Psathyrellaceae,unknown,unknown
-208,Fuligo septica,Dog Vomit Slime Mold,Physaraceae,unknown,unknown
-209,Crepidotus,Oysterlings,Crepidotaceae,unknown,unknown
-210,Cantharellus,chanterelles,Hydnaceae,unknown,unknown
-211,Coprinellus disseminatus,Trooping Crumble Cap,Psathyrellaceae,unknown,unknown
-212,Hygrocybe conica,Witch's Hat,Hygrophoraceae,unknown,unknown
-213,Phaeoclavulina abietina,Green-staining Coral Mushroom,Gomphaceae,unknown,unknown
-214,Rhizocarpon geographicum,Complex Rhizocarpon geographicum,Rhizocarpaceae,unknown,unknown
-215,Magnoliopsida,Dicots,,unknown,unknown
-216,Battarrea phalloides,Sandy Stilt-puffball,Battarreaceae,unknown,unknown
-217,Sarcomyxa serotina,Late Oyster,Sarcomyxaceae,unknown,unknown
-218,Life,life,,unknown,unknown
-219,Sepsidae,Black Scavenger Flies,Sepsidae,unknown,unknown
-220,Keroplatidae,Predatory Fungus Gnats,Keroplatidae,unknown,unknown
-221,Sciaroidea,Fungus Gnats and Gall Midges,,unknown,unknown
-222,Lordithon,,Staphylinidae,unknown,unknown
-223,Glyphis cicatricosa,Blistered Script Lichen,Graphidaceae,unknown,unknown
-224,Hygrophoropsis aurantiaca,False Chanterelle,Hygrophoropsidaceae,unknown,unknown
-225,Cychramus luteus,,Nitidulidae,unknown,unknown
-226,Entomophthora muscae,,Entomophthoraceae,unknown,unknown
-227,Coprinopsis melanthina,,Psathyrellaceae,unknown,unknown
-228,Pluteus atromarginatus,blackedged shield,Pluteaceae,unknown,unknown
-229,Lactifluus vellereus,Fleecy Milkcap,Russulaceae,unknown,unknown
-230,Infundibulicybe geotropa,Trooping Funnel,Omphalinaceae,unknown,unknown
-231,Astraeus hygrometricus,Hygroscopic Earthstar,Diplocystidaceae,unknown,unknown
-232,Bipalium kewense,Shovel-headed Garden Worm,Geoplanidae,unknown,unknown
-233,Coprinellus xanthothrix,,Psathyrellaceae,unknown,unknown
-234,Laccaria amethystina,Amethyst Deceiver,Hydnangiaceae,unknown,unknown
-235,Cortinarius clelandii,,Cortinariaceae,unknown,unknown
-236,Agaricus impudicus,Tufted Wood Mushroom,Agaricaceae,unknown,unknown
-237,Clitocybaceae,,Clitocybaceae,unknown,unknown
-238,Fulminei,,Gomphidiaceae,unknown,unknown
-239,Stylommatophora,Common Land Snails and Slugs,,unknown,unknown
-240,Newsteadia floccosa,boreal ensign scale,Ortheziidae,unknown,unknown
-241,Macrocystidia,,Macrocystidiaceae,unknown,unknown
-242,Cystolepiota,,Verrucosporaceae,unknown,unknown
-243,Helvella elastica,Elastic Saddle,Helvellaceae,unknown,unknown
-244,Cyclocybe,,Tubariaceae,unknown,unknown
-245,Arion fuligineus,Portuguese Slug,Arionidae,unknown,unknown
-246,Domestici,Coprinellus sect. Domestici,Psathyrellaceae,unknown,unknown
-247,Graphis,Graffiti Lichens,Graphidaceae,unknown,unknown
-248,Agaricus pseudopratensis,Grassy Mushroom,Agaricaceae,unknown,unknown
-249,Hygrocybe acutoconica,Persistent Waxcap,Hygrophoraceae,unknown,unknown
-250,Trichaptum,,Hymenochaetaceae,unknown,unknown
-251,Amanita verna,Fool's Mushroom,Amanitaceae,unknown,unknown
-252,Agaricus comtulus,mini mushroom,Agaricaceae,unknown,unknown
-253,Agaricus matrum,,Agaricaceae,unknown,unknown
-254,Agaricus moelleroides,Inkblot Mushroom,Agaricaceae,unknown,unknown
-255,Rinodina oxydata,Pale Pepper-spore,Physciaceae,unknown,unknown
-256,Pertusaria werneriana,,Pertusariaceae,unknown,unknown
-257,Lentinus tigrinus,Tiger Sawgill,Polyporaceae,unknown,unknown
-258,Conocybe,Conecaps,Bolbitiaceae,unknown,unknown
-259,Pseudoscorpiones,Pseudoscorpions,,unknown,unknown
-260,Coprinellus micaceus,mica cap,Psathyrellaceae,unknown,unknown
-261,Arion ater,Black Slug,Arionidae,unknown,unknown
-262,Hypholoma,,Strophariaceae,unknown,unknown
-263,Berkcurtia persicina,White Chicken Mushroom,Laetiporaceae,unknown,unknown
-264,Infundibulicybe,Funnels,Omphalinaceae,unknown,unknown
-265,Poduromorpha,Plump Springtails,,unknown,unknown
-266,Collybia,,Clitocybaceae,unknown,unknown
-267,Salamandra salamandra,Fire Salamander,Salamandridae,unknown,unknown
-268,Curculionidae,True Weevils,Curculionidae,unknown,unknown
-269,Linopodes,,Cocceupodidae,unknown,unknown
-270,Sciaridae,Dark-winged Fungus Gnats,Sciaridae,unknown,unknown
-271,Diploicia canescens,White Pleated Lichen,Caliciaceae,unknown,unknown
-272,Leratiomyces,,Strophariaceae,unknown,unknown
-273,Calvatia cyathiformis,Purple-spored Puffball,Lycoperdaceae,unknown,unknown
-274,Lycoperdon excipuliforme,Pestle Puffball,Lycoperdaceae,unknown,unknown
-275,Galerina,Moss Bells,Hymenogastraceae,unknown,unknown
-276,Flammulina velutipes,Velvet Foot,Physalacriaceae,unknown,unknown
-277,Peyssonnelia,,Peyssonneliaceae,unknown,unknown
-278,Psathyrella ammophila,Beach Brittlestem,Psathyrellaceae,unknown,unknown
-279,Protostropharia semiglobata,Dung Roundhead,Strophariaceae,unknown,unknown
-280,Coprinopsis atramentaria,Common Ink Cap,Psathyrellaceae,unknown,unknown
-281,Mydaea setifemur,,Muscidae,unknown,unknown
-282,Erynia,,Entomophthoraceae,unknown,unknown
-283,Cladosporium,,Cladosporiaceae,unknown,unknown
-284,Lichenomphalia hudsoniana,Arctic Mushroom Scales Lichen,Hygrophoraceae,unknown,unknown
-285,Usnea florida,Flowery Lichen,Parmeliaceae,unknown,unknown
-286,Lecanoromycetes,Common Lichens,,unknown,unknown
-287,Marasmius collinus,,Marasmiaceae,unknown,unknown
-288,Agaricus subrufescens,almond mushroom,Agaricaceae,unknown,unknown
-289,Chroogomphus,,Gomphidiaceae,unknown,unknown
-290,Boletaceae,boletes,Boletaceae,unknown,unknown
-291,Psocodea,"Bark Lice, Book Lice, and Parasitic Lice",,unknown,unknown
-292,Pleurotus ostreatus,,Pleurotaceae,edible,low
-293,Pluteus salicinus,Willow Shield,Pluteaceae,unknown,unknown
-294,Tricholoma equestre,Yellow Knight,Tricholomataceae,unknown,unknown
-295,Pholiota adiposa,Chestnut Mushroom,Strophariaceae,unknown,unknown
-296,Lepiota rubella,,Verrucosporaceae,unknown,unknown
-297,Ganoderma,Reishi,Polyporaceae,unknown,unknown
-298,Hypsizygus tessulatus,Beech Mushroom,Lyophyllaceae,unknown,unknown
-299,Scleroderma,earthballs,Sclerodermataceae,unknown,unknown
-300,Lactocollybia epia,,,unknown,unknown
-301,Polyporales,Shelf Fungi,,unknown,unknown
-302,Naematelia aurantia,golden ear,Naemateliaceae,unknown,unknown
-303,Clavulina,,Hydnaceae,unknown,unknown
-304,Sphaerobolus stellatus,cannonball fungus,Geastraceae,unknown,unknown
-305,Lanmaoa fragrans,,Boletaceae,unknown,unknown
-306,Pezizales,,,unknown,unknown
-307,Cyathus striatus,fluted bird's nest fungus,Nidulariaceae,unknown,unknown
-308,Helvella lacunosa,Elfin Saddle,Helvellaceae,unknown,unknown
-309,Arrhenia,,Hygrophoraceae,unknown,unknown
-310,Humaria hemisphaerica,Brown-haired White Cup,Pyronemataceae,unknown,unknown
-311,Hypomyces,,Hypocreaceae,unknown,unknown
-312,Boletus edulis,King Bolete,Boletaceae,edible,low
-313,Russulaceae,"Milkcaps, Brittlegills and Allies",Russulaceae,unknown,unknown
-314,Lactarius,Common Milkcaps,Russulaceae,unknown,unknown
-315,Macrolepiota,,Agaricaceae,unknown,unknown
-316,Umbilicaria crustulosa,,Umbilicariaceae,unknown,unknown
-317,Boletus,Porcini and Allies,Boletaceae,unknown,unknown
-318,Collembola,Springtails,,unknown,unknown
-319,Marasmius bulliardii,,Marasmiaceae,unknown,unknown
-320,Usnea,beard lichens,Parmeliaceae,unknown,unknown
-321,Suillia,,Heleomyzidae,unknown,unknown
-322,Gyroporus castaneus,Chestnut Bolete,Gyroporaceae,unknown,unknown
-323,Sminthurinus,,Katiannidae,unknown,unknown
-324,Fusicolla,,Nectriaceae,unknown,unknown
-325,Pluteus,,Pluteaceae,unknown,unknown
-326,Panellus,Oysterlings,Mycenaceae,unknown,unknown
-327,Volvariella bombycina,Silky Rosegill,Volvariellaceae,unknown,unknown
-328,Tubaria furfuracea,scurfy twiglet,Tubariaceae,unknown,unknown
-329,Hypomyces tubariicola,,Hypocreaceae,unknown,unknown
-330,Bombus terrestris lusitanicus,,Apidae,unknown,unknown
-331,Aleuria aurantia,orange peel fungus,Pyronemataceae,unknown,unknown
-332,Paralepista flaccida,tawny funnel cap,,unknown,unknown
-333,Arion,Arion Slugs,Arionidae,unknown,unknown
-334,Homophron spadiceum,chestnut brittlestem,Psathyrellaceae,unknown,unknown
-335,Julella vitrispora,,Didymosphaeriaceae,unknown,unknown
-336,Fomes,,Polyporaceae,unknown,unknown
-337,Volvopluteus,,Pluteaceae,unknown,unknown
-338,Pluteus chrysophlebius,Yellow Deer Mushroom,Pluteaceae,unknown,unknown
-339,Gymnopus brassicolens,Cabbage Parachute,Omphalotaceae,unknown,unknown
-340,Amanita rubescens,blusher,Amanitaceae,unknown,unknown
-341,Anoplotrupes,,Geotrupidae,unknown,unknown
-342,Psilocybe gallaeciae,,Hymenogastraceae,unknown,unknown
-343,Limacus flavus,Yellow Cellar Slug,Limacidae,unknown,unknown
-344,Strigamia,,Geophilidae,unknown,unknown
-345,Ritterella rubra,Red Mushroom Compound Tunicate,Ritterellidae,unknown,unknown
-346,Limacellopsis guttata,weeping slimecap,Amanitaceae,unknown,unknown
-347,Aphididae,Aphids,Aphididae,unknown,unknown
-348,Paxillus ammoniavirescens,,Paxillaceae,unknown,unknown
-349,Sparassis crispa,Cauliflower Fungus,Sparassidaceae,unknown,unknown
-350,Agaricus incultorum,Poor-ground Agaricus,Agaricaceae,unknown,unknown
-351,Agaricus placomyces,inky mushroom,Agaricaceae,unknown,unknown
-352,Physaraceae,,Physaraceae,unknown,unknown
-353,Mycena rosea,Rosy Bonnet,Mycenaceae,unknown,unknown
-354,Armillaria novae-zelandiae,Austral Honey Mushroom,Physalacriaceae,unknown,unknown
-355,Mycena chlorinosma,,Mycenaceae,unknown,unknown
-356,Schizophora,Schizophoran Flies,,unknown,unknown
-357,Flammulaster erinaceellus,powder-scale pholiota,Tubariaceae,unknown,unknown
-358,Subniveae,Coprinopsis sect. Subniveae,Psathyrellaceae,unknown,unknown
-359,Heleomyzidae,Heleomyzid Flies,Heleomyzidae,unknown,unknown
-360,Roridomyces appendiculatus,,Mycenaceae,unknown,unknown
-361,Hypomyces ochraceus,,Hypocreaceae,unknown,unknown
-362,Brevipes,,Russulaceae,unknown,unknown
-363,Atheta,vexing rove beetles,Staphylinidae,unknown,unknown
-364,Suillus,Slippery Jacks,Suillaceae,unknown,unknown
-365,Russula adusta,Blackening Russula,Russulaceae,unknown,unknown
-366,Russula atropurpurea,Purple Brittlegill,Russulaceae,unknown,unknown
-367,Suillia variegata,,Heleomyzidae,unknown,unknown
-368,Inonotus obliquus,chaga,Hymenochaetaceae,unknown,unknown
-369,Arion vulgaris,Spanish Slug,Arionidae,unknown,unknown
-370,Limacus,Cellar Slugs,Limacidae,unknown,unknown
-371,Cartodere nodifer,Swollen Fungus Beetle,Latridiidae,unknown,unknown
-372,Isotominae,,Isotomidae,unknown,unknown
-373,Mesophyllum lichenoides,pink plates,Hapalidiaceae,unknown,unknown
-374,Micacei,Coprinellus sect. Micacei,Psathyrellaceae,unknown,unknown
-375,Clitocybe fragrans,Fragrant Funnel,Clitocybaceae,unknown,unknown
-376,Leucocalocybe,,Clitocybaceae,unknown,unknown
-377,Lentinus,Woodcaps and Sawgills,Polyporaceae,unknown,unknown
-378,Calyptella capula,bowl hoodie,Porotheleaceae,unknown,unknown
-379,Anacamptis papilionacea,Pink-butterfly Orchid,Orchidaceae,unknown,unknown
-380,Gymnopus,,Omphalotaceae,unknown,unknown
-381,Helvella fallax,,Helvellaceae,unknown,unknown
-382,Physarum album,,Physaraceae,unknown,unknown
-383,Limax cinereoniger,Ash-black Slug,Limacidae,unknown,unknown
-384,Cetraria crespoae,,Parmeliaceae,unknown,unknown
-385,Descolea maculata,,Bolbitiaceae,unknown,unknown
-386,,,,unknown,unknown
-387,Termitoidae,Termites,,unknown,unknown
-388,Naucoria,Aldercaps,Hymenogastraceae,unknown,unknown
-389,Clitopilus,,Entolomataceae,unknown,unknown
-390,Hypocreaceae,,Hypocreaceae,unknown,unknown
-391,Suillellus queletii,Deceiving Bolete,Boletaceae,unknown,unknown
-392,Lentinula edodes,Shiitake,Omphalotaceae,unknown,unknown
-393,Neoleria ruficeps,,Heleomyzidae,unknown,unknown
-394,Megalosphyinae,,Sciaridae,unknown,unknown
-395,Oestophora,,Trissexodontidae,unknown,unknown
-396,Myennis,,Ulidiidae,unknown,unknown
-397,Ceratophysella,,Hypogastruridae,unknown,unknown
-398,Sternorrhyncha,Plant-parasitic Hemipterans,,unknown,unknown
-399,Desarmillaria,,Physalacriaceae,unknown,unknown
-400,Mycena tenerrima,frosty bonnet,Mycenaceae,unknown,unknown
-401,Lactarius uvidus,Shiner,Russulaceae,unknown,unknown
-402,Psilocybe cubensis,Magic Mushroom,Hymenogastraceae,unknown,unknown
-403,Auricularia nigricans,Wood Ear mushroom,Auriculariaceae,unknown,unknown
+84,Clitopilus prunulus,Sweetbread Mushroom,,unknown,unknown
+85,Hydnum,hedgehog mushrooms,,unknown,unknown
+86,Phyllotopsis nidulans,Stinking Orange Oyster,,unknown,unknown
+87,Agaricus brunneolus,Lilac Mushroom,,unknown,unknown
+88,Stereum,,,unknown,unknown
+89,Laccaria,Deceivers,,unknown,unknown
+90,Morchella,true morels,,unknown,unknown
+91,Auricularia mesenterica,Tripe Fungus,,unknown,unknown
+92,Psathyrellaceae,Brittlestems and Allies,,unknown,unknown
+93,Lepiota cristata,Stinking Dapperling,,unknown,unknown
+94,Russulales,,,unknown,unknown
+95,Onnia tomentosa,Woolly Velvet Polypore,,unknown,unknown
+96,Leucocoprinus cepistipes,onion-stalk parasol,,unknown,unknown
+97,Amanita,Amanita subsect. Amanita,,unknown,unknown
+98,Panaeolus antillarum,,,unknown,unknown
+99,Agaricus crocodilinus,Macro Mushroom,,unknown,unknown
+100,Mycena,Bonnets,,unknown,unknown
+101,Hygrophorus chrysodon,Gold Dust Waxy Cap,,unknown,unknown
+102,Hygrophorus eburneus,Cowboy's Handkerchief,,unknown,unknown
+103,Hygrophorus cossus,Goath Moth Woodwax,,unknown,unknown
+104,Lichenomphalia velutina,,,unknown,unknown
+105,Hygrocybe,Waxcaps,,unknown,unknown
+106,Agaricus augustus,The Prince,,unknown,unknown
+107,Calonarius,Chalkland Webcaps,,unknown,unknown
+108,Lactarius tesquorum,,,unknown,unknown
+109,Stereum hirsutum,hairy curtain crust,,unknown,unknown
+110,Russula torulosa,Brawny Brittlegill,,unknown,unknown
+111,Collybia nuda,Blewit,,unknown,unknown
+112,Entoloma,Pinkgills,,unknown,unknown
+113,Clitocybe,Funnels,,unknown,unknown
+114,Infundibulicybe squamulosa,,,unknown,unknown
+115,Clitocybe nebularis,Cloudy Clitocybe,,unknown,unknown
+116,Psathyrella,Brittlestems,,unknown,unknown
+117,Candolleomyces candolleanus,Pale Brittlestem,,unknown,unknown
+118,Coprinellus domesticus,Firerug Inkcap,,unknown,unknown
+119,Coprinellus,,,unknown,unknown
+120,Coprinus comatus,Shaggy Mane,,unknown,unknown
+121,Lacrymaria lacrymabunda,weeping widow,,unknown,unknown
+122,Hebeloma crustuliniforme,Poison Pie,,unknown,unknown
+123,Hebeloma cistophilum,,,unknown,unknown
+124,Hebeloma sarcophyllum,,,unknown,unknown
+125,Melanoleuca decembris,,,unknown,unknown
+126,Suillus collinitus,,,unknown,unknown
+127,Leccinellum lepidum,neat bolete,,unknown,unknown
+128,Amanita gioiosa,Pebbly Soil Amanita,,unknown,unknown
+129,Lyophyllum,Domecaps,,unknown,unknown
+130,Hemileccinum impolitum,Iodine Bolete,,unknown,unknown
+131,Agaricus sylvicola,Wood Mushroom,,unknown,unknown
+132,Gymnopus dryophilus,Oak-loving Gymnopus,,unknown,unknown
+133,Gymnopilus suberis,,,unknown,unknown
+134,Pseudoclitocybe cyathiformis,The Goblet,,unknown,unknown
+135,Lycoperdon molle,Smooth Puffball,,unknown,unknown
+136,Amanita curtipes,,,unknown,unknown
+137,Agaricus dulcidulus,Rosy Wood Mushroom,,unknown,unknown
+138,Chlorophyllum brunneum,Shaggy Parasol,,unknown,unknown
+139,Gymnopilus,rustgills and gyms,,unknown,unknown
+140,Agaricus cupreobrunneus,,,unknown,unknown
+141,Gymnopilus junonius,Spectacular Rustgill,,unknown,unknown
+142,Pholiota spumosa,Slender Pholiota,,unknown,unknown
+143,Lycoperdon perlatum,common puffball,,unknown,unknown
+144,Lycoperdaceae,puffballs,,unknown,unknown
+145,Abortiporus biennis,Blushing Rosette,,unknown,unknown
+146,Laccaria laccata,deceiver,,unknown,unknown
+147,Pholiota,Scalycaps,,unknown,unknown
+148,Terana coerulea,Cobalt Crust,,unknown,unknown
+149,Scleroderma meridionale,,,unknown,unknown
+150,Galactinia saniosa,,,unknown,unknown
+151,Ionopezia gerardii,mull disco,,unknown,unknown
+152,Mannia androgyna,,,unknown,unknown
+153,Xylodon flaviporus,,,unknown,unknown
+154,Mutinus elegans,devil's dipstick,,unknown,unknown
+155,Agaricus moelleri,Inky Agaricus,,unknown,unknown
+156,Leucocoprinus cretaceus,white chalk mushroom,,unknown,unknown
+157,Cryptomarasmius corbariensis,Oliveleaf Crypto,,unknown,unknown
+158,Trichaptum biforme,violet-toothed polypore,,unknown,unknown
+159,Agaricineae,,,unknown,unknown
+160,Cortinarius trivialis,girdled webcap,,unknown,unknown
+161,Cortinariaceae,Webcaps,,unknown,unknown
+162,Gliophorus psittacinus,Parrot Mushroom,,unknown,unknown
+163,Asterophora parasitica,Silky Piggyback,,unknown,unknown
+164,Hygrophorus,Woodwaxes,,unknown,unknown
+165,Calocera viscosa,Jelly-antler,,unknown,unknown
+166,Strophariaceae,,,unknown,unknown
+167,Paragalactinia succosella,,,unknown,unknown
+168,Psilocybe,Psilocybe Mushrooms,,unknown,unknown
+169,Neoboletus erythropus,Dotted Stem Bolete,,unknown,unknown
+170,Lentinula edodes,Shiitake,,unknown,unknown
+171,Omphalotus illudens,Eastern American jack-o'-lantern,,unknown,unknown
+172,Pluteus exilis,Western Deer Mushroom,,unknown,unknown
+173,Vibrissea truncorum,water club mushroom,,unknown,unknown
+174,Pleurotus populinus,aspen oyster mushroom,,unknown,unknown
+175,Cyclocybe cylindracea,Poplar Fieldcap,,unknown,unknown
+176,Armillaria novae-zelandiae,Austral Honey Mushroom,,unknown,unknown
+177,Agaricus bohusii,medusa mushroom,,unknown,unknown
+178,Hortiboletus rubellus,Ruby Bolete,,unknown,unknown
+179,Collybia personata,Field Blewit,,unknown,unknown
+180,Lepiota,,,unknown,unknown
+181,Heimiomyces tenuipes,,,unknown,unknown
+182,Physalacriaceae,,,unknown,unknown
+183,Inocybaceae,Fibercaps and Allies,,unknown,unknown
+184,Psilocybe semilanceata,Liberty Cap,,unknown,unknown
+185,Stropharia,Roundheads,,unknown,unknown
+186,Tricholoma,Knights,,unknown,unknown
+187,Trametes,Turkey-tails and allies,,unknown,unknown
+188,Cupressus,cypresses,,unknown,unknown
+189,Sclerodermataceae,,,unknown,unknown
+190,Tricholoma sulphureum,Sulphur Knight,,unknown,unknown
+191,Tubaria,Twiglets,,unknown,unknown
+192,Leratiomyces ceres,Chip Cherries,,unknown,unknown
+193,Geoglossum,Earth Tongues,,unknown,unknown
+194,Hericium erinaceus,lion's-mane mushroom,,unknown,unknown
+195,Stereaceae,,,unknown,unknown
+196,Marchantia quadrata,Narrow Mushroom-headed Liverwort,,unknown,unknown
+197,Coprinopsis picacea,Magpie Inkcap,,unknown,unknown
+198,Crepidotus,Oysterlings,,unknown,unknown
+199,Cantharellus,chanterelles,,unknown,unknown
+200,Coprinellus disseminatus,Trooping Crumble Cap,,unknown,unknown
+201,Hygrocybe conica,Witch's Hat,,unknown,unknown
+202,Phaeoclavulina abietina,Green-staining Coral Mushroom,,unknown,unknown
+203,Rhizocarpon geographicum,Complex Rhizocarpon geographicum,,unknown,unknown
+204,Magnoliopsida,Dicots,,unknown,unknown
+205,Battarrea phalloides,Sandy Stilt-puffball,,unknown,unknown
+206,Sarcomyxa serotina,Late Oyster,,unknown,unknown
+207,Glyphis cicatricosa,Blistered Script Lichen,,unknown,unknown
+208,Hygrophoropsis aurantiaca,False Chanterelle,,unknown,unknown
+209,Entomophthora muscae,,,unknown,unknown
+210,Coprinopsis melanthina,,,unknown,unknown
+211,Pluteus atromarginatus,blackedged shield,,unknown,unknown
+212,Lactifluus vellereus,Fleecy Milkcap,,unknown,unknown
+213,Infundibulicybe geotropa,Trooping Funnel,,unknown,unknown
+214,Astraeus hygrometricus,Hygroscopic Earthstar,,unknown,unknown
+215,Coprinellus xanthothrix,,,unknown,unknown
+216,Laccaria amethystina,Amethyst Deceiver,,unknown,unknown
+217,Cortinarius clelandii,,,unknown,unknown
+218,Agaricus impudicus,Tufted Wood Mushroom,,unknown,unknown
+219,Clitocybaceae,,,unknown,unknown
+220,Fulminei,,,unknown,unknown
+221,Macrocystidia,,,unknown,unknown
+222,Cystolepiota,,,unknown,unknown
+223,Helvella elastica,Elastic Saddle,,unknown,unknown
+224,Cyclocybe,,,unknown,unknown
+225,Psilocybe cubensis,Magic Mushroom,,unknown,unknown
+226,Domestici,Coprinellus sect. Domestici,,unknown,unknown
+227,Graphis,Graffiti Lichens,,unknown,unknown
+228,Agaricus pseudopratensis,Grassy Mushroom,,unknown,unknown
+229,Hygrocybe acutoconica,Persistent Waxcap,,unknown,unknown
+230,Trichaptum,,,unknown,unknown
+231,Amanita verna,Fool's Mushroom,,unknown,unknown
+232,Agaricus comtulus,mini mushroom,,unknown,unknown
+233,Agaricus matrum,,,unknown,unknown
+234,Agaricus moelleroides,Inkblot Mushroom,,unknown,unknown
+235,Rinodina oxydata,Pale Pepper-spore,,unknown,unknown
+236,Pertusaria werneriana,,,unknown,unknown
+237,Lentinus tigrinus,Tiger Sawgill,,unknown,unknown
+238,Conocybe,Conecaps,,unknown,unknown
+239,Coprinellus micaceus,mica cap,,unknown,unknown
+240,Hypholoma,,,unknown,unknown
+241,Berkcurtia persicina,White Chicken Mushroom,,unknown,unknown
+242,Infundibulicybe,Funnels,,unknown,unknown
+243,Collybia,,,unknown,unknown
+244,Diploicia canescens,White Pleated Lichen,,unknown,unknown
+245,Leratiomyces,,,unknown,unknown
+246,Calvatia cyathiformis,Purple-spored Puffball,,unknown,unknown
+247,Lycoperdon excipuliforme,Pestle Puffball,,unknown,unknown
+248,Galerina,Moss Bells,,unknown,unknown
+249,Flammulina velutipes,Velvet Foot,,unknown,unknown
+250,Peyssonnelia,,,unknown,unknown
+251,Psathyrella ammophila,Beach Brittlestem,,unknown,unknown
+252,Protostropharia semiglobata,Dung Roundhead,,unknown,unknown
+253,Coprinopsis atramentaria,Common Ink Cap,,unknown,unknown
+254,Erynia,,,unknown,unknown
+255,Cladosporium,,,unknown,unknown
+256,Lichenomphalia hudsoniana,Arctic Mushroom Scales Lichen,,unknown,unknown
+257,Usnea florida,Flowery Lichen,,unknown,unknown
+258,Lecanoromycetes,Common Lichens,,unknown,unknown
+259,Marasmius collinus,,,unknown,unknown
+260,Agaricus subrufescens,almond mushroom,,unknown,unknown
+261,Chroogomphus,,,unknown,unknown
+262,Boletaceae,boletes,,unknown,unknown
+263,Pleurotus ostreatus,,,edible,low
+264,Pluteus salicinus,Willow Shield,,unknown,unknown
+265,Tricholoma equestre,Yellow Knight,,unknown,unknown
+266,Pholiota adiposa,Chestnut Mushroom,,unknown,unknown
+267,Lepiota rubella,,,unknown,unknown
+268,Ganoderma,Reishi,,unknown,unknown
+269,Hypsizygus tessulatus,Beech Mushroom,,unknown,unknown
+270,Scleroderma,earthballs,,unknown,unknown
+271,Lactocollybia epia,,,unknown,unknown
+272,Polyporales,Shelf Fungi,,unknown,unknown
+273,Naematelia aurantia,golden ear,,unknown,unknown
+274,Clavulina,,,unknown,unknown
+275,Sphaerobolus stellatus,cannonball fungus,,unknown,unknown
+276,Lanmaoa fragrans,,,unknown,unknown
+277,Pezizales,,,unknown,unknown
+278,Cyathus striatus,fluted bird's nest fungus,,unknown,unknown
+279,Helvella lacunosa,Elfin Saddle,,unknown,unknown
+280,Arrhenia,,,unknown,unknown
+281,Humaria hemisphaerica,Brown-haired White Cup,,unknown,unknown
+282,Hypomyces,,,unknown,unknown
+283,Boletus edulis,King Bolete,,edible,low
+284,Russulaceae,"Milkcaps, Brittlegills and Allies",,unknown,unknown
+285,Lactarius,Common Milkcaps,,unknown,unknown
+286,Macrolepiota,,,unknown,unknown
+287,Umbilicaria crustulosa,,,unknown,unknown
+288,Boletus,Porcini and Allies,,unknown,unknown
+289,Marasmius bulliardii,,,unknown,unknown
+290,Usnea,beard lichens,,unknown,unknown
+291,Gyroporus castaneus,Chestnut Bolete,,unknown,unknown
+292,Fusicolla,,,unknown,unknown
+293,Pluteus,,,unknown,unknown
+294,Panellus,Oysterlings,,unknown,unknown
+295,Volvariella bombycina,Silky Rosegill,,unknown,unknown
+296,Tubaria furfuracea,scurfy twiglet,,unknown,unknown
+297,Hypomyces tubariicola,,,unknown,unknown
+298,Aleuria aurantia,orange peel fungus,,unknown,unknown
+299,Paralepista flaccida,tawny funnel cap,,unknown,unknown
+300,Homophron spadiceum,chestnut brittlestem,,unknown,unknown
+301,Auricularia polytricha,Wood Ear mushroom,,unknown,unknown
+302,Julella vitrispora,,,unknown,unknown
+303,Omphalotus subilludens,southern jack-o'-lantern,,unknown,unknown
+304,Fomes,,,unknown,unknown
+305,Volvopluteus,,,unknown,unknown
+306,Pluteus chrysophlebius,Yellow Deer Mushroom,,unknown,unknown
+307,Gymnopus brassicolens,Cabbage Parachute,,unknown,unknown
+308,Amanita rubescens,blusher,,unknown,unknown
+309,Pleurotus citrinopileatus,Golden Oyster Mushroom,,unknown,unknown
+310,Psilocybe gallaeciae,,,unknown,unknown
+311,Limacellopsis guttata,weeping slimecap,,unknown,unknown
+312,Paxillus ammoniavirescens,,,unknown,unknown
+313,Sparassis crispa,Cauliflower Fungus,,unknown,unknown
+314,Agaricus incultorum,Poor-ground Agaricus,,unknown,unknown
+315,Agaricus placomyces,inky mushroom,,unknown,unknown
+316,Mycena rosea,Rosy Bonnet,,unknown,unknown
+317,Mycena chlorinosma,,,unknown,unknown
+318,Flammulaster erinaceellus,powder-scale pholiota,,unknown,unknown
+319,Subniveae,Coprinopsis sect. Subniveae,,unknown,unknown
+320,Roridomyces appendiculatus,,,unknown,unknown
+321,Hypomyces ochraceus,,,unknown,unknown
+322,Brevipes,,,unknown,unknown
+323,Suillus,Slippery Jacks,,unknown,unknown
+324,Russula adusta,Blackening Russula,,unknown,unknown
+325,Russula atropurpurea,Purple Brittlegill,,unknown,unknown
+326,Inonotus obliquus,chaga,,unknown,unknown
+327,Mesophyllum lichenoides,pink plates,,unknown,unknown
+328,Micacei,Coprinellus sect. Micacei,,unknown,unknown
+329,Clitocybe fragrans,Fragrant Funnel,,unknown,unknown
+330,Leucocalocybe,,,unknown,unknown
+331,Lentinus,Woodcaps and Sawgills,,unknown,unknown
+332,Calyptella capula,bowl hoodie,,unknown,unknown
+333,Anacamptis papilionacea,Pink-butterfly Orchid,,unknown,unknown
+334,Gymnopus,,,unknown,unknown
+335,Helvella,Elfin Saddles,,unknown,unknown
+336,Cetraria crespoae,,,unknown,unknown
+337,Pleurotus djamor,Pink Oyster Mushroom,,unknown,unknown
+338,Descolea maculata,,,unknown,unknown
+339,Naucoria,Aldercaps,,unknown,unknown
+340,Clitopilus,,,unknown,unknown
+341,Hypocreaceae,,,unknown,unknown
+342,Suillellus queletii,Deceiving Bolete,,unknown,unknown
+343,Tapinella atrotomentosa,Velvet-footed Tap,,unknown,unknown
+344,Sparassis spathulata,Eastern cauliflower mushroom,,unknown,unknown
+345,Desarmillaria,,,unknown,unknown
+346,Mycena tenerrima,frosty bonnet,,unknown,unknown
+347,Lactarius uvidus,Shiner,,unknown,unknown
+348,Auricularia nigricans,Wood Ear mushroom,,unknown,unknown
+349,Hemimycena,,,unknown,unknown
+350,Panaeolus,Mottlegills,,unknown,unknown
