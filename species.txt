@@ -1,0 +1,398 @@
+    Abortiporus biennis
+    Acari
+    Agaricaceae
+    Agaricales
+    Agaricineae
+    Agaricomycetes
+    Agaricus
+    Agaricus arvensis
+    Agaricus augustus
+    Agaricus bisporus
+    Agaricus bitorquis
+    Agaricus bohusii
+    Agaricus brunneolus
+    Agaricus campestris
+    Agaricus comtulus
+    Agaricus crocodilinus
+    Agaricus cupreobrunneus
+    Agaricus dulcidulus
+    Agaricus impudicus
+    Agaricus incultorum
+    Agaricus langei
+    Agaricus litoralis
+    Agaricus matrum
+    Agaricus moelleri
+    Agaricus moelleroides
+    Agaricus placomyces
+    Agaricus pseudopratensis
+    Agaricus subrufescens
+    Agaricus sylvaticus
+    Agaricus sylvicola
+    Agaricus xanthodermus
+    Aleocharinae
+    Aleuria aurantia
+    Amanita
+    Amanita caesarea
+    Amanita citrina
+    Amanita curtipes
+    Amanita gioiosa
+    Amanita muscaria
+    Amanita ponderosa
+    Amanita rubescens
+    Amanita verna
+    Amanitaceae
+    Anacamptis papilionacea
+    Anoplotrupes
+    Aphididae
+    Arion
+    Arion ater
+    Arion fuligineus
+    Arion vulgaris
+    Armillaria
+    Armillaria mellea
+    Armillaria novae-zelandiae
+    Armillaria ostoyae
+    Arrhenia
+    Asterophora parasitica
+    Astraeus hygrometricus
+    Atheta
+    Auricularia mesenterica
+    Auricularia nigricans
+    Basidiomycota
+    Battarrea phalloides
+    Berkcurtia persicina
+    Bipalium kewense
+    Bolbitius titubans
+    Boletaceae
+    Boletales
+    Boletus
+    Boletus edulis
+    Bombus terrestris lusitanicus
+    Brevipes
+    Calocera viscosa
+    Calocybe gambosa
+    Calonarius
+    Calvatia cyathiformis
+    Calyptella capula
+    Candolleomyces candolleanus
+    Cantharellus
+    Cartodere nodifer
+    Ceratophysella
+    Cerioporus squamosus
+    Cetraria crespoae
+    Chlorophyllum brunneum
+    Chroogomphus
+    Cladosporium
+    Clathrus ruber
+    Clavulina
+    Clitocybaceae
+    Clitocybe
+    Clitocybe fragrans
+    Clitocybe nebularis
+    Clitopilus
+    Clitopilus prunulus
+    Collembola
+    Collybia
+    Collybia nuda
+    Collybia personata
+    Conocybe
+    Coprinellus
+    Coprinellus disseminatus
+    Coprinellus domesticus
+    Coprinellus micaceus
+    Coprinellus xanthothrix
+    Coprinopsis atramentaria
+    Coprinopsis lagopus
+    Coprinopsis melanthina
+    Coprinopsis picacea
+    Coprinus comatus
+    Cortinariaceae
+    Cortinarius clelandii
+    Cortinarius trivialis
+    Crepidotus
+    Cryptomarasmius corbariensis
+    Cupressus
+    Curculionidae
+    Cyathus striatus
+    Cychramus luteus
+    Cyclocybe
+    Cyclocybe cylindracea
+    Cynomorium coccineum
+    Cystolepiota
+    Deroceras
+    Desarmillaria
+    Descolea maculata
+    Didymium spongiosum
+    Diploicia canescens
+    Domestici
+    Entoloma
+    Entoloma cistophilum
+    Entomophthora muscae
+    Erynia
+    Flammulaster erinaceellus
+    Flammulina velutipes
+    Fomes
+    Fuligo septica
+    Fulminei
+    Fungi
+    Fuscoporia torulosa
+    Fusicolla
+    Galactinia saniosa
+    Galerina
+    Ganoderma
+    Geoglossum
+    Gibbaranea bituberculata
+    Gliophorus
+    Gliophorus psittacinus
+    Glyphis cicatricosa
+    Graphis
+    Gymnopilus
+    Gymnopilus junonius
+    Gymnopilus suberis
+    Gymnopus
+    Gymnopus brassicolens
+    Gymnopus dryophilus
+    Gyroporus castaneus
+    Hebeloma cistophilum
+    Hebeloma crustuliniforme
+    Hebeloma sarcophyllum
+    Heleomyzidae
+    Helvella elastica
+    Helvella fallax
+    Helvella lacunosa
+    Hemileccinum impolitum
+    Hericium erinaceus
+    Hexagonia nitida
+    Homophron spadiceum
+    Hortiboletus rubellus
+    Humaria hemisphaerica
+    Hydnum
+    Hygrocybe
+    Hygrocybe acutoconica
+    Hygrocybe conica
+    Hygrophoropsis aurantiaca
+    Hygrophorus
+    Hygrophorus chrysodon
+    Hygrophorus cossus
+    Hygrophorus eburneus
+    Hygrophorus glutinifer
+    Hypholoma
+    Hypholoma fasciculare
+    Hypocreaceae
+    Hypogastruridae
+    Hypomyces
+    Hypomyces ochraceus
+    Hypomyces tubariicola
+    Hypsizygus tessulatus
+    Hypsizygus ulmarius
+    Infundibulicybe
+    Infundibulicybe geotropa
+    Infundibulicybe squamulosa
+    Inocybaceae
+    Inocybe
+    Inonotus obliquus
+    Insecta
+    Ionopezia gerardii
+    Isotominae
+    Julella vitrispora
+    Keroplatidae
+    Laccaria
+    Laccaria amethystina
+    Laccaria laccata
+    Lacrymaria lacrymabunda
+    Lactarius
+    Lactarius chrysorrheus
+    Lactarius deliciosus
+    Lactarius tesquorum
+    Lactarius uvidus
+    Lactifluus vellereus
+    Lactocollybia epia
+    Laetiporus sulphureus
+    Lanmaoa fragrans
+    Lecanoromycetes
+    Leccinellum corsicum
+    Leccinellum lepidum
+    Lentinula edodes
+    Lentinus
+    Lentinus tigrinus
+    Lepiota
+    Lepiota cristata
+    Lepiota rubella
+    Leratiomyces
+    Leratiomyces ceres
+    Leucocalocybe
+    Leucocoprinus cepistipes
+    Leucocoprinus cretaceus
+    Lichenomphalia hudsoniana
+    Lichenomphalia velutina
+    Life
+    Limacellopsis guttata
+    Limacus
+    Limacus flavus
+    Limax cinereoniger
+    Linopodes
+    Lordithon
+    Lycoperdaceae
+    Lycoperdon
+    Lycoperdon excipuliforme
+    Lycoperdon molle
+    Lycoperdon perlatum
+    Lyophyllum
+    Lyophyllum decastes
+    Macrocystidia
+    Macrolepiota
+    Macrolepiota procera
+    Magnoliopsida
+    Mannia androgyna
+    Marasmius
+    Marasmius bulliardii
+    Marasmius collinus
+    Marasmius oreades
+    Marchantia quadrata
+    Megacollybia platyphylla
+    Megalosphyinae
+    Melanoleuca decembris
+    Mesophyllum lichenoides
+    Micacei
+    Montagnea radiosa
+    Morchella
+    Mutinus elegans
+    Mycena
+    Mycena chlorinosma
+    Mycena haematopus
+    Mycena pseudocorticola
+    Mycena rosea
+    Mycena tenerrima
+    Mycenaceae
+    Mydaea setifemur
+    Myennis
+    Myennis octopunctata
+    Naematelia aurantia
+    Naucoria
+    Neobisium
+    Neoboletus erythropus
+    Neoleria ruficeps
+    Newsteadia floccosa
+    Oestophora
+    Oestophora barbella
+    Omphalotus
+    Omphalotus illudens
+    Omphalotus olearius
+    Onnia tomentosa
+    Oudemansiella mucida
+    Oudemansiella radicata
+    Panaeolus antillarum
+    Panaeolus foenisecii
+    Panellus
+    Panus lecomtei
+    Paragalactinia succosella
+    Paralepista flaccida
+    Parasola conopilea
+    Paxillus ammoniavirescens
+    Pertusaria werneriana
+    Peyssonnelia
+    Pezizales
+    Phaeoclavulina abietina
+    Phallus impudicus
+    Pholiota
+    Pholiota adiposa
+    Pholiota highlandensis
+    Pholiota spumosa
+    Phyllotopsis nidulans
+    Physalacriaceae
+    Physaraceae
+    Physarum album
+    Pisolithus
+    Pisolithus arhizus
+    Pleurotus
+    Pleurotus eryngii
+    Pleurotus ostreatus
+    Pleurotus populinus
+    Pluteaceae
+    Pluteus
+    Pluteus atromarginatus
+    Pluteus cervinus
+    Pluteus chrysophlebius
+    Pluteus exilis
+    Pluteus salicinus
+    Poduromorpha
+    Polyporales
+    Protostropharia semiglobata
+    Psathyrella
+    Psathyrella ammophila
+    Psathyrellaceae
+    Pseudoclitocybe cyathiformis
+    Pseudoscorpiones
+    Psilocybe
+    Psilocybe cubensis
+    Psilocybe gallaeciae
+    Psilocybe semilanceata
+    Psocodea
+    Psychodinae
+    Rhizocarpon geographicum
+    Rinodina oxydata
+    Ritterella rubra
+    Roridomyces appendiculatus
+    Russula
+    Russula adusta
+    Russula atropurpurea
+    Russula torulosa
+    Russulaceae
+    Russulales
+    Salamandra salamandra
+    Sarcomyxa serotina
+    Sarcoscypha
+    Schizophora
+    Schizophyllum commune
+    Sciaridae
+    Sciaroidea
+    Sciurus vulgaris
+    Scleroderma
+    Scleroderma meridionale
+    Scleroderma polyrhizum
+    Sclerodermataceae
+    Sepsidae
+    Sminthurinus
+    Sparassis
+    Sparassis crispa
+    Sphaerobolus stellatus
+    Staphylinidae
+    Stereum
+    Stereum hirsutum
+    Sternorrhyncha
+    Strigamia
+    Stropharia
+    Strophariaceae
+    Stylommatophora
+    Subniveae
+    Suillellus luridus
+    Suillellus queletii
+    Suillia
+    Suillia variegata
+    Suillus
+    Suillus bovinus
+    Suillus collinitus
+    Terana coerulea
+    Termitoidae
+    Trametes
+    Trametes versicolor
+    Trichaptum
+    Trichaptum biforme
+    Trichia
+    Tricholoma
+    Tricholoma equestre
+    Tricholoma sulphureum
+    Tubaria
+    Tubaria furfuracea
+    Umbilicaria crustulosa
+    Usnea
+    Usnea florida
+    Vaginatae
+    Vertebrata
+    Vibrissea truncorum
+    Volvariella bombycina
+    Volvariella volvacea
+    Volvopluteus
+    Volvopluteus gloiocephalus
+    Xerocomus
+    Xylodon flaviporus
